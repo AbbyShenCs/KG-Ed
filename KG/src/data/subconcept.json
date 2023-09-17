@@ -1,0 +1,4089 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 77,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "计算机语言"
+        },
+        "elementId": "77"
+      },
+      "end": {
+        "identity": 190,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "机器语言"
+        },
+        "elementId": "190"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 77,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "计算机语言"
+            },
+            "elementId": "77"
+          },
+          "relationship": {
+            "identity": 228,
+            "start": 77,
+            "end": 190,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "228",
+            "startNodeElementId": "77",
+            "endNodeElementId": "190"
+          },
+          "end": {
+            "identity": 190,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "机器语言"
+            },
+            "elementId": "190"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 77,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "计算机语言"
+        },
+        "elementId": "77"
+      },
+      "end": {
+        "identity": 197,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "高级语言"
+        },
+        "elementId": "197"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 77,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "计算机语言"
+            },
+            "elementId": "77"
+          },
+          "relationship": {
+            "identity": 229,
+            "start": 77,
+            "end": 197,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "229",
+            "startNodeElementId": "77",
+            "endNodeElementId": "197"
+          },
+          "end": {
+            "identity": 197,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "高级语言"
+            },
+            "elementId": "197"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 84,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "常量"
+        },
+        "elementId": "84"
+      },
+      "end": {
+        "identity": 212,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "浮点型数据"
+        },
+        "elementId": "212"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 84,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "常量"
+            },
+            "elementId": "84"
+          },
+          "relationship": {
+            "identity": 230,
+            "start": 84,
+            "end": 212,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "230",
+            "startNodeElementId": "84",
+            "endNodeElementId": "212"
+          },
+          "end": {
+            "identity": 212,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "浮点型数据"
+            },
+            "elementId": "212"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 92,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "关系运算符"
+        },
+        "elementId": "92"
+      },
+      "end": {
+        "identity": 202,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "字符常量"
+        },
+        "elementId": "202"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 92,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "关系运算符"
+            },
+            "elementId": "92"
+          },
+          "relationship": {
+            "identity": 231,
+            "start": 92,
+            "end": 202,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "231",
+            "startNodeElementId": "92",
+            "endNodeElementId": "202"
+          },
+          "end": {
+            "identity": 202,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "字符常量"
+            },
+            "elementId": "202"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 76,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "计算机程序"
+        },
+        "elementId": "76"
+      },
+      "end": {
+        "identity": 183,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "计算机语言"
+        },
+        "elementId": "183"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 76,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "计算机程序"
+            },
+            "elementId": "76"
+          },
+          "relationship": {
+            "identity": 232,
+            "start": 76,
+            "end": 183,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "232",
+            "startNodeElementId": "76",
+            "endNodeElementId": "183"
+          },
+          "end": {
+            "identity": 183,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "计算机语言"
+            },
+            "elementId": "183"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 98,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数组"
+        },
+        "elementId": "98"
+      },
+      "end": {
+        "identity": 184,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "二维数组"
+        },
+        "elementId": "184"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 98,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数组"
+            },
+            "elementId": "98"
+          },
+          "relationship": {
+            "identity": 233,
+            "start": 98,
+            "end": 184,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "233",
+            "startNodeElementId": "98",
+            "endNodeElementId": "184"
+          },
+          "end": {
+            "identity": 184,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "二维数组"
+            },
+            "elementId": "184"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 112,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "局部变量"
+        },
+        "elementId": "112"
+      },
+      "end": {
+        "identity": 174,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "全局变量"
+        },
+        "elementId": "174"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 112,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "局部变量"
+            },
+            "elementId": "112"
+          },
+          "relationship": {
+            "identity": 234,
+            "start": 112,
+            "end": 174,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "234",
+            "startNodeElementId": "112",
+            "endNodeElementId": "174"
+          },
+          "end": {
+            "identity": 174,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "全局变量"
+            },
+            "elementId": "174"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 109,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "函数调用时的数据传递"
+        },
+        "elementId": "109"
+      },
+      "end": {
+        "identity": 185,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "静态存储方式"
+        },
+        "elementId": "185"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 109,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "函数调用时的数据传递"
+            },
+            "elementId": "109"
+          },
+          "relationship": {
+            "identity": 235,
+            "start": 109,
+            "end": 185,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "235",
+            "startNodeElementId": "109",
+            "endNodeElementId": "185"
+          },
+          "end": {
+            "identity": 185,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "静态存储方式"
+            },
+            "elementId": "185"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 95,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "循环结构程序设计"
+        },
+        "elementId": "95"
+      },
+      "end": {
+        "identity": 215,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "break语句"
+        },
+        "elementId": "215"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 95,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "循环结构程序设计"
+            },
+            "elementId": "95"
+          },
+          "relationship": {
+            "identity": 236,
+            "start": 95,
+            "end": 215,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "236",
+            "startNodeElementId": "95",
+            "endNodeElementId": "215"
+          },
+          "end": {
+            "identity": 215,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "break语句"
+            },
+            "elementId": "215"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 92,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "关系运算符"
+        },
+        "elementId": "92"
+      },
+      "end": {
+        "identity": 181,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "逻辑运算符"
+        },
+        "elementId": "181"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 92,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "关系运算符"
+            },
+            "elementId": "92"
+          },
+          "relationship": {
+            "identity": 237,
+            "start": 92,
+            "end": 181,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "237",
+            "startNodeElementId": "92",
+            "endNodeElementId": "181"
+          },
+          "end": {
+            "identity": 181,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "逻辑运算符"
+            },
+            "elementId": "181"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 92,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "关系运算符"
+        },
+        "elementId": "92"
+      },
+      "end": {
+        "identity": 219,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "赋值表达式"
+        },
+        "elementId": "219"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 92,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "关系运算符"
+            },
+            "elementId": "92"
+          },
+          "relationship": {
+            "identity": 238,
+            "start": 92,
+            "end": 219,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "238",
+            "startNodeElementId": "92",
+            "endNodeElementId": "219"
+          },
+          "end": {
+            "identity": 219,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "赋值表达式"
+            },
+            "elementId": "219"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 116,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "内部函数"
+        },
+        "elementId": "116"
+      },
+      "end": {
+        "identity": 226,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "外部函数"
+        },
+        "elementId": "226"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 116,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "内部函数"
+            },
+            "elementId": "116"
+          },
+          "relationship": {
+            "identity": 239,
+            "start": 116,
+            "end": 226,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "239",
+            "startNodeElementId": "116",
+            "endNodeElementId": "226"
+          },
+          "end": {
+            "identity": 226,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "外部函数"
+            },
+            "elementId": "226"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 119,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针变量"
+        },
+        "elementId": "119"
+      },
+      "end": {
+        "identity": 230,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "定义指针变量"
+        },
+        "elementId": "230"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 119,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针变量"
+            },
+            "elementId": "119"
+          },
+          "relationship": {
+            "identity": 240,
+            "start": 119,
+            "end": 230,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "240",
+            "startNodeElementId": "119",
+            "endNodeElementId": "230"
+          },
+          "end": {
+            "identity": 230,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "定义指针变量"
+            },
+            "elementId": "230"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 148,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "逻辑表达式"
+        },
+        "elementId": "148"
+      },
+      "end": {
+        "identity": 181,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "逻辑运算符"
+        },
+        "elementId": "181"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 148,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "逻辑表达式"
+            },
+            "elementId": "148"
+          },
+          "relationship": {
+            "identity": 241,
+            "start": 148,
+            "end": 181,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "241",
+            "startNodeElementId": "148",
+            "endNodeElementId": "181"
+          },
+          "end": {
+            "identity": 181,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "逻辑运算符"
+            },
+            "elementId": "181"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 84,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "常量"
+        },
+        "elementId": "84"
+      },
+      "end": {
+        "identity": 168,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "字符型数据"
+        },
+        "elementId": "168"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 84,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "常量"
+            },
+            "elementId": "84"
+          },
+          "relationship": {
+            "identity": 242,
+            "start": 84,
+            "end": 168,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "242",
+            "startNodeElementId": "84",
+            "endNodeElementId": "168"
+          },
+          "end": {
+            "identity": 168,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "字符型数据"
+            },
+            "elementId": "168"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 92,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "关系运算符"
+        },
+        "elementId": "92"
+      },
+      "end": {
+        "identity": 227,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "逻辑表达式"
+        },
+        "elementId": "227"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 92,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "关系运算符"
+            },
+            "elementId": "92"
+          },
+          "relationship": {
+            "identity": 243,
+            "start": 92,
+            "end": 227,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "243",
+            "startNodeElementId": "92",
+            "endNodeElementId": "227"
+          },
+          "end": {
+            "identity": 227,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "逻辑表达式"
+            },
+            "elementId": "227"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 119,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针变量"
+        },
+        "elementId": "119"
+      },
+      "end": {
+        "identity": 201,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "返回指针值的函数"
+        },
+        "elementId": "201"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 119,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针变量"
+            },
+            "elementId": "119"
+          },
+          "relationship": {
+            "identity": 244,
+            "start": 119,
+            "end": 201,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "244",
+            "startNodeElementId": "119",
+            "endNodeElementId": "201"
+          },
+          "end": {
+            "identity": 201,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "返回指针值的函数"
+            },
+            "elementId": "201"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 137,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "程序文件"
+        },
+        "elementId": "137"
+      },
+      "end": {
+        "identity": 199,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "文件名"
+        },
+        "elementId": "199"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 137,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "程序文件"
+            },
+            "elementId": "137"
+          },
+          "relationship": {
+            "identity": 245,
+            "start": 137,
+            "end": 199,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "245",
+            "startNodeElementId": "137",
+            "endNodeElementId": "199"
+          },
+          "end": {
+            "identity": 199,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "文件名"
+            },
+            "elementId": "199"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 77,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "计算机语言"
+        },
+        "elementId": "77"
+      },
+      "end": {
+        "identity": 177,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "汇编语言"
+        },
+        "elementId": "177"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 77,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "计算机语言"
+            },
+            "elementId": "77"
+          },
+          "relationship": {
+            "identity": 246,
+            "start": 77,
+            "end": 177,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "246",
+            "startNodeElementId": "77",
+            "endNodeElementId": "177"
+          },
+          "end": {
+            "identity": 177,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "汇编语言"
+            },
+            "elementId": "177"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 129,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "结构体"
+        },
+        "elementId": "129"
+      },
+      "end": {
+        "identity": 187,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "结构体指针"
+        },
+        "elementId": "187"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 129,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "结构体"
+            },
+            "elementId": "129"
+          },
+          "relationship": {
+            "identity": 247,
+            "start": 129,
+            "end": 187,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "247",
+            "startNodeElementId": "129",
+            "endNodeElementId": "187"
+          },
+          "end": {
+            "identity": 187,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "结构体指针"
+            },
+            "elementId": "187"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "100"
+      },
+      "end": {
+        "identity": 224,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "字符数组的输入输出"
+        },
+        "elementId": "224"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "100"
+          },
+          "relationship": {
+            "identity": 248,
+            "start": 100,
+            "end": 224,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "248",
+            "startNodeElementId": "100",
+            "endNodeElementId": "224"
+          },
+          "end": {
+            "identity": 224,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "字符数组的输入输出"
+            },
+            "elementId": "224"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "100"
+      },
+      "end": {
+        "identity": 182,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "转换为大写的函数"
+        },
+        "elementId": "182"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "100"
+          },
+          "relationship": {
+            "identity": 249,
+            "start": 100,
+            "end": 182,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "249",
+            "startNodeElementId": "100",
+            "endNodeElementId": "182"
+          },
+          "end": {
+            "identity": 182,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "转换为大写的函数"
+            },
+            "elementId": "182"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "100"
+      },
+      "end": {
+        "identity": 214,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "字符串连接函数"
+        },
+        "elementId": "214"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "100"
+          },
+          "relationship": {
+            "identity": 250,
+            "start": 100,
+            "end": 214,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "250",
+            "startNodeElementId": "100",
+            "endNodeElementId": "214"
+          },
+          "end": {
+            "identity": 214,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "字符串连接函数"
+            },
+            "elementId": "214"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 92,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "关系运算符"
+        },
+        "elementId": "92"
+      },
+      "end": {
+        "identity": 210,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "算术表达式"
+        },
+        "elementId": "210"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 92,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "关系运算符"
+            },
+            "elementId": "92"
+          },
+          "relationship": {
+            "identity": 251,
+            "start": 92,
+            "end": 210,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "251",
+            "startNodeElementId": "92",
+            "endNodeElementId": "210"
+          },
+          "end": {
+            "identity": 210,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "算术表达式"
+            },
+            "elementId": "210"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 137,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "程序文件"
+        },
+        "elementId": "137"
+      },
+      "end": {
+        "identity": 205,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "打开与关闭文件"
+        },
+        "elementId": "205"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 137,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "程序文件"
+            },
+            "elementId": "137"
+          },
+          "relationship": {
+            "identity": 252,
+            "start": 137,
+            "end": 205,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "252",
+            "startNodeElementId": "137",
+            "endNodeElementId": "205"
+          },
+          "end": {
+            "identity": 205,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "打开与关闭文件"
+            },
+            "elementId": "205"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 140,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "打开与关闭文件"
+        },
+        "elementId": "140"
+      },
+      "end": {
+        "identity": 188,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "ferror函数"
+        },
+        "elementId": "188"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 140,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "打开与关闭文件"
+            },
+            "elementId": "140"
+          },
+          "relationship": {
+            "identity": 253,
+            "start": 140,
+            "end": 188,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "253",
+            "startNodeElementId": "140",
+            "endNodeElementId": "188"
+          },
+          "end": {
+            "identity": 188,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "ferror函数"
+            },
+            "elementId": "188"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "100"
+      },
+      "end": {
+        "identity": 195,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "字符串复制函数"
+        },
+        "elementId": "195"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "100"
+          },
+          "relationship": {
+            "identity": 254,
+            "start": 100,
+            "end": 195,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "254",
+            "startNodeElementId": "100",
+            "endNodeElementId": "195"
+          },
+          "end": {
+            "identity": 195,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "字符串复制函数"
+            },
+            "elementId": "195"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 92,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "关系运算符"
+        },
+        "elementId": "92"
+      },
+      "end": {
+        "identity": 209,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "条件表达式"
+        },
+        "elementId": "209"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 92,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "关系运算符"
+            },
+            "elementId": "92"
+          },
+          "relationship": {
+            "identity": 255,
+            "start": 92,
+            "end": 209,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "255",
+            "startNodeElementId": "92",
+            "endNodeElementId": "209"
+          },
+          "end": {
+            "identity": 209,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "条件表达式"
+            },
+            "elementId": "209"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 92,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "关系运算符"
+        },
+        "elementId": "92"
+      },
+      "end": {
+        "identity": 194,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "整型常量"
+        },
+        "elementId": "194"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 92,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "关系运算符"
+            },
+            "elementId": "92"
+          },
+          "relationship": {
+            "identity": 256,
+            "start": 92,
+            "end": 194,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "256",
+            "startNodeElementId": "92",
+            "endNodeElementId": "194"
+          },
+          "end": {
+            "identity": 194,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "整型常量"
+            },
+            "elementId": "194"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 95,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "循环结构程序设计"
+        },
+        "elementId": "95"
+      },
+      "end": {
+        "identity": 200,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "continue语句"
+        },
+        "elementId": "200"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 95,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "循环结构程序设计"
+            },
+            "elementId": "95"
+          },
+          "relationship": {
+            "identity": 257,
+            "start": 95,
+            "end": 200,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "257",
+            "startNodeElementId": "95",
+            "endNodeElementId": "200"
+          },
+          "end": {
+            "identity": 200,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "continue语句"
+            },
+            "elementId": "200"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 109,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "函数调用时的数据传递"
+        },
+        "elementId": "109"
+      },
+      "end": {
+        "identity": 204,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "数组元素作函数实参"
+        },
+        "elementId": "204"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 109,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "函数调用时的数据传递"
+            },
+            "elementId": "109"
+          },
+          "relationship": {
+            "identity": 258,
+            "start": 109,
+            "end": 204,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "258",
+            "startNodeElementId": "109",
+            "endNodeElementId": "204"
+          },
+          "end": {
+            "identity": 204,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "数组元素作函数实参"
+            },
+            "elementId": "204"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 123,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针数组"
+        },
+        "elementId": "123"
+      },
+      "end": {
+        "identity": 191,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "free函数"
+        },
+        "elementId": "191"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 123,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针数组"
+            },
+            "elementId": "123"
+          },
+          "relationship": {
+            "identity": 259,
+            "start": 123,
+            "end": 191,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "259",
+            "startNodeElementId": "123",
+            "endNodeElementId": "191"
+          },
+          "end": {
+            "identity": 191,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "free函数"
+            },
+            "elementId": "191"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 140,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "打开与关闭文件"
+        },
+        "elementId": "140"
+      },
+      "end": {
+        "identity": 170,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "文件读写的出错检测"
+        },
+        "elementId": "170"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 140,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "打开与关闭文件"
+            },
+            "elementId": "140"
+          },
+          "relationship": {
+            "identity": 260,
+            "start": 140,
+            "end": 170,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "260",
+            "startNodeElementId": "140",
+            "endNodeElementId": "170"
+          },
+          "end": {
+            "identity": 170,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "文件读写的出错检测"
+            },
+            "elementId": "170"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "100"
+      },
+      "end": {
+        "identity": 216,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "测字符串长度的函数"
+        },
+        "elementId": "216"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "100"
+          },
+          "relationship": {
+            "identity": 261,
+            "start": 100,
+            "end": 216,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "261",
+            "startNodeElementId": "100",
+            "endNodeElementId": "216"
+          },
+          "end": {
+            "identity": 216,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "测字符串长度的函数"
+            },
+            "elementId": "216"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 92,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "关系运算符"
+        },
+        "elementId": "92"
+      },
+      "end": {
+        "identity": 207,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "强制类型转换"
+        },
+        "elementId": "207"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 92,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "关系运算符"
+            },
+            "elementId": "92"
+          },
+          "relationship": {
+            "identity": 262,
+            "start": 92,
+            "end": 207,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "262",
+            "startNodeElementId": "92",
+            "endNodeElementId": "207"
+          },
+          "end": {
+            "identity": 207,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "强制类型转换"
+            },
+            "elementId": "207"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "100"
+      },
+      "end": {
+        "identity": 231,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "字符串比较函数"
+        },
+        "elementId": "231"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "100"
+          },
+          "relationship": {
+            "identity": 263,
+            "start": 100,
+            "end": 231,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "263",
+            "startNodeElementId": "100",
+            "endNodeElementId": "231"
+          },
+          "end": {
+            "identity": 231,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "字符串比较函数"
+            },
+            "elementId": "231"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 135,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "枚举类型"
+        },
+        "elementId": "135"
+      },
+      "end": {
+        "identity": 173,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "结构体"
+        },
+        "elementId": "173"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 135,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "枚举类型"
+            },
+            "elementId": "135"
+          },
+          "relationship": {
+            "identity": 264,
+            "start": 135,
+            "end": 173,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "264",
+            "startNodeElementId": "135",
+            "endNodeElementId": "173"
+          },
+          "end": {
+            "identity": 173,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "结构体"
+            },
+            "elementId": "173"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 119,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针变量"
+        },
+        "elementId": "119"
+      },
+      "end": {
+        "identity": 189,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "数组元素的指针"
+        },
+        "elementId": "189"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 119,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针变量"
+            },
+            "elementId": "119"
+          },
+          "relationship": {
+            "identity": 265,
+            "start": 119,
+            "end": 189,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "265",
+            "startNodeElementId": "119",
+            "endNodeElementId": "189"
+          },
+          "end": {
+            "identity": 189,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "数组元素的指针"
+            },
+            "elementId": "189"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 84,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "常量"
+        },
+        "elementId": "84"
+      },
+      "end": {
+        "identity": 175,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "整型数据"
+        },
+        "elementId": "175"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 84,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "常量"
+            },
+            "elementId": "84"
+          },
+          "relationship": {
+            "identity": 266,
+            "start": 84,
+            "end": 175,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "266",
+            "startNodeElementId": "84",
+            "endNodeElementId": "175"
+          },
+          "end": {
+            "identity": 175,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "整型数据"
+            },
+            "elementId": "175"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 123,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针数组"
+        },
+        "elementId": "123"
+      },
+      "end": {
+        "identity": 171,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "calloc函数"
+        },
+        "elementId": "171"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 123,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针数组"
+            },
+            "elementId": "123"
+          },
+          "relationship": {
+            "identity": 267,
+            "start": 123,
+            "end": 171,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "267",
+            "startNodeElementId": "123",
+            "endNodeElementId": "171"
+          },
+          "end": {
+            "identity": 171,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "calloc函数"
+            },
+            "elementId": "171"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 129,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "结构体"
+        },
+        "elementId": "129"
+      },
+      "end": {
+        "identity": 229,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "结构体变量的初始化和引用"
+        },
+        "elementId": "229"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 129,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "结构体"
+            },
+            "elementId": "129"
+          },
+          "relationship": {
+            "identity": 268,
+            "start": 129,
+            "end": 229,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "268",
+            "startNodeElementId": "129",
+            "endNodeElementId": "229"
+          },
+          "end": {
+            "identity": 229,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "结构体变量的初始化和引用"
+            },
+            "elementId": "229"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 109,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "函数调用时的数据传递"
+        },
+        "elementId": "109"
+      },
+      "end": {
+        "identity": 198,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "内部函数"
+        },
+        "elementId": "198"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 109,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "函数调用时的数据传递"
+            },
+            "elementId": "109"
+          },
+          "relationship": {
+            "identity": 269,
+            "start": 109,
+            "end": 198,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "269",
+            "startNodeElementId": "109",
+            "endNodeElementId": "198"
+          },
+          "end": {
+            "identity": 198,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "内部函数"
+            },
+            "elementId": "198"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 151,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "条件表达式"
+        },
+        "elementId": "151"
+      },
+      "end": {
+        "identity": 208,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "条件运算符"
+        },
+        "elementId": "208"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 151,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "条件表达式"
+            },
+            "elementId": "151"
+          },
+          "relationship": {
+            "identity": 270,
+            "start": 151,
+            "end": 208,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "270",
+            "startNodeElementId": "151",
+            "endNodeElementId": "208"
+          },
+          "end": {
+            "identity": 208,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "条件运算符"
+            },
+            "elementId": "208"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "100"
+      },
+      "end": {
+        "identity": 222,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "输出字符串的函数"
+        },
+        "elementId": "222"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "100"
+          },
+          "relationship": {
+            "identity": 271,
+            "start": 100,
+            "end": 222,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "271",
+            "startNodeElementId": "100",
+            "endNodeElementId": "222"
+          },
+          "end": {
+            "identity": 222,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "输出字符串的函数"
+            },
+            "elementId": "222"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 84,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "常量"
+        },
+        "elementId": "84"
+      },
+      "end": {
+        "identity": 211,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "标识符"
+        },
+        "elementId": "211"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 84,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "常量"
+            },
+            "elementId": "84"
+          },
+          "relationship": {
+            "identity": 272,
+            "start": 84,
+            "end": 211,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "272",
+            "startNodeElementId": "84",
+            "endNodeElementId": "211"
+          },
+          "end": {
+            "identity": 211,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "标识符"
+            },
+            "elementId": "211"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 76,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "计算机程序"
+        },
+        "elementId": "76"
+      },
+      "end": {
+        "identity": 196,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "C语言特点"
+        },
+        "elementId": "196"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 76,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "计算机程序"
+            },
+            "elementId": "76"
+          },
+          "relationship": {
+            "identity": 273,
+            "start": 76,
+            "end": 196,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "273",
+            "startNodeElementId": "76",
+            "endNodeElementId": "196"
+          },
+          "end": {
+            "identity": 196,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "C语言特点"
+            },
+            "elementId": "196"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 123,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针数组"
+        },
+        "elementId": "123"
+      },
+      "end": {
+        "identity": 186,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "realloc函数"
+        },
+        "elementId": "186"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 123,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针数组"
+            },
+            "elementId": "123"
+          },
+          "relationship": {
+            "identity": 274,
+            "start": 123,
+            "end": 186,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "274",
+            "startNodeElementId": "123",
+            "endNodeElementId": "186"
+          },
+          "end": {
+            "identity": 186,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "realloc函数"
+            },
+            "elementId": "186"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 137,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "程序文件"
+        },
+        "elementId": "137"
+      },
+      "end": {
+        "identity": 220,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "数据文件"
+        },
+        "elementId": "220"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 137,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "程序文件"
+            },
+            "elementId": "137"
+          },
+          "relationship": {
+            "identity": 275,
+            "start": 137,
+            "end": 220,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "275",
+            "startNodeElementId": "137",
+            "endNodeElementId": "220"
+          },
+          "end": {
+            "identity": 220,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "数据文件"
+            },
+            "elementId": "220"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "C语句分类"
+        },
+        "elementId": "90"
+      },
+      "end": {
+        "identity": 213,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "字符数据的输入输出"
+        },
+        "elementId": "213"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "C语句分类"
+            },
+            "elementId": "90"
+          },
+          "relationship": {
+            "identity": 276,
+            "start": 90,
+            "end": 213,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "276",
+            "startNodeElementId": "90",
+            "endNodeElementId": "213"
+          },
+          "end": {
+            "identity": 213,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "字符数据的输入输出"
+            },
+            "elementId": "213"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 140,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "打开与关闭文件"
+        },
+        "elementId": "140"
+      },
+      "end": {
+        "identity": 176,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "clearerr 函数"
+        },
+        "elementId": "176"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 140,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "打开与关闭文件"
+            },
+            "elementId": "140"
+          },
+          "relationship": {
+            "identity": 277,
+            "start": 140,
+            "end": 176,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "277",
+            "startNodeElementId": "140",
+            "endNodeElementId": "176"
+          },
+          "end": {
+            "identity": 176,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "clearerr 函数"
+            },
+            "elementId": "176"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 123,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针数组"
+        },
+        "elementId": "123"
+      },
+      "end": {
+        "identity": 193,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "内存的动态分配"
+        },
+        "elementId": "193"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 123,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针数组"
+            },
+            "elementId": "123"
+          },
+          "relationship": {
+            "identity": 278,
+            "start": 123,
+            "end": 193,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "278",
+            "startNodeElementId": "123",
+            "endNodeElementId": "193"
+          },
+          "end": {
+            "identity": 193,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "内存的动态分配"
+            },
+            "elementId": "193"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 134,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "共用体类型"
+        },
+        "elementId": "134"
+      },
+      "end": {
+        "identity": 173,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "结构体"
+        },
+        "elementId": "173"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 134,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "共用体类型"
+            },
+            "elementId": "134"
+          },
+          "relationship": {
+            "identity": 279,
+            "start": 134,
+            "end": 173,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "279",
+            "startNodeElementId": "134",
+            "endNodeElementId": "173"
+          },
+          "end": {
+            "identity": 173,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "结构体"
+            },
+            "elementId": "173"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 84,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "常量"
+        },
+        "elementId": "84"
+      },
+      "end": {
+        "identity": 206,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "变量"
+        },
+        "elementId": "206"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 84,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "常量"
+            },
+            "elementId": "84"
+          },
+          "relationship": {
+            "identity": 280,
+            "start": 84,
+            "end": 206,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "280",
+            "startNodeElementId": "84",
+            "endNodeElementId": "206"
+          },
+          "end": {
+            "identity": 206,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "变量"
+            },
+            "elementId": "206"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 118,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针"
+        },
+        "elementId": "118"
+      },
+      "end": {
+        "identity": 217,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "指针变量"
+        },
+        "elementId": "217"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 118,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针"
+            },
+            "elementId": "118"
+          },
+          "relationship": {
+            "identity": 281,
+            "start": 118,
+            "end": 217,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "281",
+            "startNodeElementId": "118",
+            "endNodeElementId": "217"
+          },
+          "end": {
+            "identity": 217,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "指针变量"
+            },
+            "elementId": "217"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 118,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针"
+        },
+        "elementId": "118"
+      },
+      "end": {
+        "identity": 179,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "指针数组"
+        },
+        "elementId": "179"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 118,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针"
+            },
+            "elementId": "118"
+          },
+          "relationship": {
+            "identity": 282,
+            "start": 118,
+            "end": 179,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "282",
+            "startNodeElementId": "118",
+            "endNodeElementId": "179"
+          },
+          "end": {
+            "identity": 179,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "指针数组"
+            },
+            "elementId": "179"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 109,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "函数调用时的数据传递"
+        },
+        "elementId": "109"
+      },
+      "end": {
+        "identity": 169,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "局部变量"
+        },
+        "elementId": "169"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 109,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "函数调用时的数据传递"
+            },
+            "elementId": "109"
+          },
+          "relationship": {
+            "identity": 283,
+            "start": 109,
+            "end": 169,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "283",
+            "startNodeElementId": "109",
+            "endNodeElementId": "169"
+          },
+          "end": {
+            "identity": 169,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "局部变量"
+            },
+            "elementId": "169"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 114,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "静态存储方式"
+        },
+        "elementId": "114"
+      },
+      "end": {
+        "identity": 180,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "动态存储方式"
+        },
+        "elementId": "180"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 114,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "静态存储方式"
+            },
+            "elementId": "114"
+          },
+          "relationship": {
+            "identity": 284,
+            "start": 114,
+            "end": 180,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "284",
+            "startNodeElementId": "114",
+            "endNodeElementId": "180"
+          },
+          "end": {
+            "identity": 180,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "动态存储方式"
+            },
+            "elementId": "180"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 98,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数组"
+        },
+        "elementId": "98"
+      },
+      "end": {
+        "identity": 192,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "192"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 98,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数组"
+            },
+            "elementId": "98"
+          },
+          "relationship": {
+            "identity": 285,
+            "start": 98,
+            "end": 192,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "285",
+            "startNodeElementId": "98",
+            "endNodeElementId": "192"
+          },
+          "end": {
+            "identity": 192,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "192"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 109,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "函数调用时的数据传递"
+        },
+        "elementId": "109"
+      },
+      "end": {
+        "identity": 203,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "数组名作函数参数"
+        },
+        "elementId": "203"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 109,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "函数调用时的数据传递"
+            },
+            "elementId": "109"
+          },
+          "relationship": {
+            "identity": 286,
+            "start": 109,
+            "end": 203,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "286",
+            "startNodeElementId": "109",
+            "endNodeElementId": "203"
+          },
+          "end": {
+            "identity": 203,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "数组名作函数参数"
+            },
+            "elementId": "203"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 140,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "打开与关闭文件"
+        },
+        "elementId": "140"
+      },
+      "end": {
+        "identity": 221,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "文件位置标记的定位"
+        },
+        "elementId": "221"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 140,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "打开与关闭文件"
+            },
+            "elementId": "140"
+          },
+          "relationship": {
+            "identity": 287,
+            "start": 140,
+            "end": 221,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "287",
+            "startNodeElementId": "140",
+            "endNodeElementId": "221"
+          },
+          "end": {
+            "identity": 221,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "文件位置标记的定位"
+            },
+            "elementId": "221"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 123,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针数组"
+        },
+        "elementId": "123"
+      },
+      "end": {
+        "identity": 225,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "malloc函数"
+        },
+        "elementId": "225"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 123,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针数组"
+            },
+            "elementId": "123"
+          },
+          "relationship": {
+            "identity": 288,
+            "start": 123,
+            "end": 225,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "288",
+            "startNodeElementId": "123",
+            "endNodeElementId": "225"
+          },
+          "end": {
+            "identity": 225,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "malloc函数"
+            },
+            "elementId": "225"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "100"
+      },
+      "end": {
+        "identity": 223,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "转换为小写的函数"
+        },
+        "elementId": "223"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "100"
+          },
+          "relationship": {
+            "identity": 289,
+            "start": 100,
+            "end": 223,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "289",
+            "startNodeElementId": "100",
+            "endNodeElementId": "223"
+          },
+          "end": {
+            "identity": 223,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "转换为小写的函数"
+            },
+            "elementId": "223"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 132,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "链表"
+        },
+        "elementId": "132"
+      },
+      "end": {
+        "identity": 228,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "建立动态链表"
+        },
+        "elementId": "228"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 132,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "链表"
+            },
+            "elementId": "132"
+          },
+          "relationship": {
+            "identity": 290,
+            "start": 132,
+            "end": 228,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "290",
+            "startNodeElementId": "132",
+            "endNodeElementId": "228"
+          },
+          "end": {
+            "identity": 228,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "建立动态链表"
+            },
+            "elementId": "228"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "算法的特征"
+        },
+        "elementId": "82"
+      },
+      "end": {
+        "identity": 172,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "算法的描述方法"
+        },
+        "elementId": "172"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "算法的特征"
+            },
+            "elementId": "82"
+          },
+          "relationship": {
+            "identity": 291,
+            "start": 82,
+            "end": 172,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "291",
+            "startNodeElementId": "82",
+            "endNodeElementId": "172"
+          },
+          "end": {
+            "identity": 172,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "算法的描述方法"
+            },
+            "elementId": "172"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 129,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "结构体"
+        },
+        "elementId": "129"
+      },
+      "end": {
+        "identity": 218,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "链表"
+        },
+        "elementId": "218"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 129,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "结构体"
+            },
+            "elementId": "129"
+          },
+          "relationship": {
+            "identity": 292,
+            "start": 129,
+            "end": 218,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "292",
+            "startNodeElementId": "129",
+            "endNodeElementId": "218"
+          },
+          "end": {
+            "identity": 218,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "链表"
+            },
+            "elementId": "218"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 136,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "typedef声明类型"
+        },
+        "elementId": "136"
+      },
+      "end": {
+        "identity": 173,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "结构体"
+        },
+        "elementId": "173"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 136,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "typedef声明类型"
+            },
+            "elementId": "136"
+          },
+          "relationship": {
+            "identity": 293,
+            "start": 136,
+            "end": 173,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "293",
+            "startNodeElementId": "136",
+            "endNodeElementId": "173"
+          },
+          "end": {
+            "identity": 173,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "结构体"
+            },
+            "elementId": "173"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "C语句分类"
+        },
+        "elementId": "90"
+      },
+      "end": {
+        "identity": 178,
+        "labels": [
+          "Subclass"
+        ],
+        "properties": {
+          "name": "常量"
+        },
+        "elementId": "178"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "C语句分类"
+            },
+            "elementId": "90"
+          },
+          "relationship": {
+            "identity": 294,
+            "start": 90,
+            "end": 178,
+            "type": "sub_concept",
+            "properties": {
+              "name": "子概念"
+            },
+            "elementId": "294",
+            "startNodeElementId": "90",
+            "endNodeElementId": "178"
+          },
+          "end": {
+            "identity": 178,
+            "labels": [
+              "Subclass"
+            ],
+            "properties": {
+              "name": "常量"
+            },
+            "elementId": "178"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

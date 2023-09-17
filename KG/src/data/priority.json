@@ -1,0 +1,4644 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 78,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "机器语言"
+        },
+        "elementId": "78"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 78,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "机器语言"
+            },
+            "elementId": "78"
+          },
+          "relationship": {
+            "identity": 152,
+            "start": 78,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "152",
+            "startNodeElementId": "78",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 115,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "动态存储方式"
+        },
+        "elementId": "115"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 115,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "动态存储方式"
+            },
+            "elementId": "115"
+          },
+          "relationship": {
+            "identity": 153,
+            "start": 115,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "153",
+            "startNodeElementId": "115",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 149,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "强制类型转换"
+        },
+        "elementId": "149"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 149,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "强制类型转换"
+            },
+            "elementId": "149"
+          },
+          "relationship": {
+            "identity": 154,
+            "start": 149,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "154",
+            "startNodeElementId": "149",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 119,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针变量"
+        },
+        "elementId": "119"
+      },
+      "end": {
+        "identity": 164,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "164"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 119,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针变量"
+            },
+            "elementId": "119"
+          },
+          "relationship": {
+            "identity": 155,
+            "start": 119,
+            "end": 164,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "155",
+            "startNodeElementId": "119",
+            "endNodeElementId": "164"
+          },
+          "end": {
+            "identity": 164,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "164"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 151,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "条件表达式"
+        },
+        "elementId": "151"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 151,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "条件表达式"
+            },
+            "elementId": "151"
+          },
+          "relationship": {
+            "identity": 156,
+            "start": 151,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "156",
+            "startNodeElementId": "151",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 126,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "calloc函数"
+        },
+        "elementId": "126"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 126,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "calloc函数"
+            },
+            "elementId": "126"
+          },
+          "relationship": {
+            "identity": 157,
+            "start": 126,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "157",
+            "startNodeElementId": "126",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 140,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "打开与关闭文件"
+        },
+        "elementId": "140"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 140,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "打开与关闭文件"
+            },
+            "elementId": "140"
+          },
+          "relationship": {
+            "identity": 158,
+            "start": 140,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "158",
+            "startNodeElementId": "140",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 125,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "malloc函数"
+        },
+        "elementId": "125"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 125,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "malloc函数"
+            },
+            "elementId": "125"
+          },
+          "relationship": {
+            "identity": 159,
+            "start": 125,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "159",
+            "startNodeElementId": "125",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 102,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "输出字符串的函数"
+        },
+        "elementId": "102"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 102,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "输出字符串的函数"
+            },
+            "elementId": "102"
+          },
+          "relationship": {
+            "identity": 160,
+            "start": 102,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "160",
+            "startNodeElementId": "102",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 105,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符串比较函数"
+        },
+        "elementId": "105"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 105,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符串比较函数"
+            },
+            "elementId": "105"
+          },
+          "relationship": {
+            "identity": 161,
+            "start": 105,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "161",
+            "startNodeElementId": "105",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 112,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "局部变量"
+        },
+        "elementId": "112"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 112,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "局部变量"
+            },
+            "elementId": "112"
+          },
+          "relationship": {
+            "identity": 162,
+            "start": 112,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "162",
+            "startNodeElementId": "112",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 146,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符常量"
+        },
+        "elementId": "146"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 146,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符常量"
+            },
+            "elementId": "146"
+          },
+          "relationship": {
+            "identity": 163,
+            "start": 146,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "163",
+            "startNodeElementId": "146",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 121,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数组元素的指针"
+        },
+        "elementId": "121"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 121,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数组元素的指针"
+            },
+            "elementId": "121"
+          },
+          "relationship": {
+            "identity": 164,
+            "start": 121,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "164",
+            "startNodeElementId": "121",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 136,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "typedef声明类型"
+        },
+        "elementId": "136"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 136,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "typedef声明类型"
+            },
+            "elementId": "136"
+          },
+          "relationship": {
+            "identity": 165,
+            "start": 136,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "165",
+            "startNodeElementId": "136",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 139,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "文件名"
+        },
+        "elementId": "139"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 139,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "文件名"
+            },
+            "elementId": "139"
+          },
+          "relationship": {
+            "identity": 166,
+            "start": 139,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "166",
+            "startNodeElementId": "139",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 98,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数组"
+        },
+        "elementId": "98"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 98,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数组"
+            },
+            "elementId": "98"
+          },
+          "relationship": {
+            "identity": 167,
+            "start": 98,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "167",
+            "startNodeElementId": "98",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 77,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "计算机语言"
+        },
+        "elementId": "77"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 77,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "计算机语言"
+            },
+            "elementId": "77"
+          },
+          "relationship": {
+            "identity": 168,
+            "start": 77,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "168",
+            "startNodeElementId": "77",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 85,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "变量"
+        },
+        "elementId": "85"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 85,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "变量"
+            },
+            "elementId": "85"
+          },
+          "relationship": {
+            "identity": 169,
+            "start": 85,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "169",
+            "startNodeElementId": "85",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 107,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "转换为小写的函数"
+        },
+        "elementId": "107"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 107,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "转换为小写的函数"
+            },
+            "elementId": "107"
+          },
+          "relationship": {
+            "identity": 170,
+            "start": 107,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "170",
+            "startNodeElementId": "107",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 133,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "建立动态链表"
+        },
+        "elementId": "133"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 133,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "建立动态链表"
+            },
+            "elementId": "133"
+          },
+          "relationship": {
+            "identity": 171,
+            "start": 133,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "171",
+            "startNodeElementId": "133",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 97,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "continue语句"
+        },
+        "elementId": "97"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 97,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "continue语句"
+            },
+            "elementId": "97"
+          },
+          "relationship": {
+            "identity": 172,
+            "start": 97,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "172",
+            "startNodeElementId": "97",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 127,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "free函数"
+        },
+        "elementId": "127"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 127,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "free函数"
+            },
+            "elementId": "127"
+          },
+          "relationship": {
+            "identity": 173,
+            "start": 127,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "173",
+            "startNodeElementId": "127",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 81,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "C语言特点"
+        },
+        "elementId": "81"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 81,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "C语言特点"
+            },
+            "elementId": "81"
+          },
+          "relationship": {
+            "identity": 174,
+            "start": 81,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "174",
+            "startNodeElementId": "81",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 147,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "算术表达式"
+        },
+        "elementId": "147"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 147,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "算术表达式"
+            },
+            "elementId": "147"
+          },
+          "relationship": {
+            "identity": 175,
+            "start": 147,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "175",
+            "startNodeElementId": "147",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 148,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "逻辑表达式"
+        },
+        "elementId": "148"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 148,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "逻辑表达式"
+            },
+            "elementId": "148"
+          },
+          "relationship": {
+            "identity": 176,
+            "start": 148,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "176",
+            "startNodeElementId": "148",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 150,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "赋值表达式"
+        },
+        "elementId": "150"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 150,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "赋值表达式"
+            },
+            "elementId": "150"
+          },
+          "relationship": {
+            "identity": 177,
+            "start": 150,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "177",
+            "startNodeElementId": "150",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 84,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "常量"
+        },
+        "elementId": "84"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 84,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "常量"
+            },
+            "elementId": "84"
+          },
+          "relationship": {
+            "identity": 178,
+            "start": 84,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "178",
+            "startNodeElementId": "84",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 122,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "返回指针值的函数"
+        },
+        "elementId": "122"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 122,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "返回指针值的函数"
+            },
+            "elementId": "122"
+          },
+          "relationship": {
+            "identity": 179,
+            "start": 122,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "179",
+            "startNodeElementId": "122",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 76,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "计算机程序"
+        },
+        "elementId": "76"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 76,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "计算机程序"
+            },
+            "elementId": "76"
+          },
+          "relationship": {
+            "identity": 180,
+            "start": 76,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "180",
+            "startNodeElementId": "76",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 93,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "逻辑运算符"
+        },
+        "elementId": "93"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 93,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "逻辑运算符"
+            },
+            "elementId": "93"
+          },
+          "relationship": {
+            "identity": 181,
+            "start": 93,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "181",
+            "startNodeElementId": "93",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 129,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "结构体"
+        },
+        "elementId": "129"
+      },
+      "end": {
+        "identity": 164,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "164"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 129,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "结构体"
+            },
+            "elementId": "129"
+          },
+          "relationship": {
+            "identity": 182,
+            "start": 129,
+            "end": 164,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "182",
+            "startNodeElementId": "129",
+            "endNodeElementId": "164"
+          },
+          "end": {
+            "identity": 164,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "164"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 113,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "全局变量"
+        },
+        "elementId": "113"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 113,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "全局变量"
+            },
+            "elementId": "113"
+          },
+          "relationship": {
+            "identity": 183,
+            "start": 113,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "183",
+            "startNodeElementId": "113",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 132,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "链表"
+        },
+        "elementId": "132"
+      },
+      "end": {
+        "identity": 164,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "164"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 132,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "链表"
+            },
+            "elementId": "132"
+          },
+          "relationship": {
+            "identity": 184,
+            "start": 132,
+            "end": 164,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "184",
+            "startNodeElementId": "132",
+            "endNodeElementId": "164"
+          },
+          "end": {
+            "identity": 164,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "164"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 134,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "共用体类型"
+        },
+        "elementId": "134"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 134,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "共用体类型"
+            },
+            "elementId": "134"
+          },
+          "relationship": {
+            "identity": 185,
+            "start": 134,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "185",
+            "startNodeElementId": "134",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 83,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "算法的描述方法"
+        },
+        "elementId": "83"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 83,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "算法的描述方法"
+            },
+            "elementId": "83"
+          },
+          "relationship": {
+            "identity": 186,
+            "start": 83,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "186",
+            "startNodeElementId": "83",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 144,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "clearerr 函数"
+        },
+        "elementId": "144"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 144,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "clearerr 函数"
+            },
+            "elementId": "144"
+          },
+          "relationship": {
+            "identity": 187,
+            "start": 144,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "187",
+            "startNodeElementId": "144",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 88,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符型数据"
+        },
+        "elementId": "88"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 88,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符型数据"
+            },
+            "elementId": "88"
+          },
+          "relationship": {
+            "identity": 188,
+            "start": 88,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "188",
+            "startNodeElementId": "88",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 111,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数组名作函数参数"
+        },
+        "elementId": "111"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 111,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数组名作函数参数"
+            },
+            "elementId": "111"
+          },
+          "relationship": {
+            "identity": 189,
+            "start": 111,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "189",
+            "startNodeElementId": "111",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 116,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "内部函数"
+        },
+        "elementId": "116"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 116,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "内部函数"
+            },
+            "elementId": "116"
+          },
+          "relationship": {
+            "identity": 190,
+            "start": 116,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "190",
+            "startNodeElementId": "116",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 103,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符串连接函数"
+        },
+        "elementId": "103"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 103,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符串连接函数"
+            },
+            "elementId": "103"
+          },
+          "relationship": {
+            "identity": 191,
+            "start": 103,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "191",
+            "startNodeElementId": "103",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 145,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "整型常量"
+        },
+        "elementId": "145"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 145,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "整型常量"
+            },
+            "elementId": "145"
+          },
+          "relationship": {
+            "identity": 192,
+            "start": 145,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "192",
+            "startNodeElementId": "145",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 131,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "结构体指针"
+        },
+        "elementId": "131"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 131,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "结构体指针"
+            },
+            "elementId": "131"
+          },
+          "relationship": {
+            "identity": 193,
+            "start": 131,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "193",
+            "startNodeElementId": "131",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 123,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针数组"
+        },
+        "elementId": "123"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 123,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针数组"
+            },
+            "elementId": "123"
+          },
+          "relationship": {
+            "identity": 194,
+            "start": 123,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "194",
+            "startNodeElementId": "123",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "C语句分类"
+        },
+        "elementId": "90"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "C语句分类"
+            },
+            "elementId": "90"
+          },
+          "relationship": {
+            "identity": 195,
+            "start": 90,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "195",
+            "startNodeElementId": "90",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 135,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "枚举类型"
+        },
+        "elementId": "135"
+      },
+      "end": {
+        "identity": 164,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "164"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 135,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "枚举类型"
+            },
+            "elementId": "135"
+          },
+          "relationship": {
+            "identity": 196,
+            "start": 135,
+            "end": 164,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "196",
+            "startNodeElementId": "135",
+            "endNodeElementId": "164"
+          },
+          "end": {
+            "identity": 164,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "164"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 99,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "二维数组"
+        },
+        "elementId": "99"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 99,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "二维数组"
+            },
+            "elementId": "99"
+          },
+          "relationship": {
+            "identity": 197,
+            "start": 99,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "197",
+            "startNodeElementId": "99",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 106,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "测字符串长度的函数"
+        },
+        "elementId": "106"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 106,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "测字符串长度的函数"
+            },
+            "elementId": "106"
+          },
+          "relationship": {
+            "identity": 198,
+            "start": 106,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "198",
+            "startNodeElementId": "106",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 91,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数据的输入输出"
+        },
+        "elementId": "91"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 91,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数据的输入输出"
+            },
+            "elementId": "91"
+          },
+          "relationship": {
+            "identity": 199,
+            "start": 91,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "199",
+            "startNodeElementId": "91",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "高级语言"
+        },
+        "elementId": "80"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "高级语言"
+            },
+            "elementId": "80"
+          },
+          "relationship": {
+            "identity": 200,
+            "start": 80,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "200",
+            "startNodeElementId": "80",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 92,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "关系运算符"
+        },
+        "elementId": "92"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 92,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "关系运算符"
+            },
+            "elementId": "92"
+          },
+          "relationship": {
+            "identity": 201,
+            "start": 92,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "201",
+            "startNodeElementId": "92",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 110,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数组元素作函数实参"
+        },
+        "elementId": "110"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 110,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数组元素作函数实参"
+            },
+            "elementId": "110"
+          },
+          "relationship": {
+            "identity": 202,
+            "start": 110,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "202",
+            "startNodeElementId": "110",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 137,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "程序文件"
+        },
+        "elementId": "137"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 137,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "程序文件"
+            },
+            "elementId": "137"
+          },
+          "relationship": {
+            "identity": 203,
+            "start": 137,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "203",
+            "startNodeElementId": "137",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "算法的特征"
+        },
+        "elementId": "82"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "算法的特征"
+            },
+            "elementId": "82"
+          },
+          "relationship": {
+            "identity": 204,
+            "start": 82,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "204",
+            "startNodeElementId": "82",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 89,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "浮点型数据"
+        },
+        "elementId": "89"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 89,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "浮点型数据"
+            },
+            "elementId": "89"
+          },
+          "relationship": {
+            "identity": 205,
+            "start": 89,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "205",
+            "startNodeElementId": "89",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 79,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "汇编语言"
+        },
+        "elementId": "79"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 79,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "汇编语言"
+            },
+            "elementId": "79"
+          },
+          "relationship": {
+            "identity": 206,
+            "start": 79,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "206",
+            "startNodeElementId": "79",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "100"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "100"
+          },
+          "relationship": {
+            "identity": 207,
+            "start": 100,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "207",
+            "startNodeElementId": "100",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 128,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "realloc函数"
+        },
+        "elementId": "128"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 128,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "realloc函数"
+            },
+            "elementId": "128"
+          },
+          "relationship": {
+            "identity": 208,
+            "start": 128,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "208",
+            "startNodeElementId": "128",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 114,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "静态存储方式"
+        },
+        "elementId": "114"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 114,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "静态存储方式"
+            },
+            "elementId": "114"
+          },
+          "relationship": {
+            "identity": 209,
+            "start": 114,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "209",
+            "startNodeElementId": "114",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 124,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "内存的动态分配"
+        },
+        "elementId": "124"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 124,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "内存的动态分配"
+            },
+            "elementId": "124"
+          },
+          "relationship": {
+            "identity": 210,
+            "start": 124,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "210",
+            "startNodeElementId": "124",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 130,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "结构体变量的初始化和引用"
+        },
+        "elementId": "130"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 130,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "结构体变量的初始化和引用"
+            },
+            "elementId": "130"
+          },
+          "relationship": {
+            "identity": 211,
+            "start": 130,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "211",
+            "startNodeElementId": "130",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 108,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "转换为大写的函数"
+        },
+        "elementId": "108"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 108,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "转换为大写的函数"
+            },
+            "elementId": "108"
+          },
+          "relationship": {
+            "identity": 212,
+            "start": 108,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "212",
+            "startNodeElementId": "108",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 109,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "函数调用时的数据传递"
+        },
+        "elementId": "109"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 109,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "函数调用时的数据传递"
+            },
+            "elementId": "109"
+          },
+          "relationship": {
+            "identity": 213,
+            "start": 109,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "213",
+            "startNodeElementId": "109",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 104,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符串复制函数"
+        },
+        "elementId": "104"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 104,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符串复制函数"
+            },
+            "elementId": "104"
+          },
+          "relationship": {
+            "identity": 214,
+            "start": 104,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "214",
+            "startNodeElementId": "104",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 120,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "定义指针变量"
+        },
+        "elementId": "120"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 120,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "定义指针变量"
+            },
+            "elementId": "120"
+          },
+          "relationship": {
+            "identity": 215,
+            "start": 120,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "215",
+            "startNodeElementId": "120",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 143,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "ferror函数"
+        },
+        "elementId": "143"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 143,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "ferror函数"
+            },
+            "elementId": "143"
+          },
+          "relationship": {
+            "identity": 216,
+            "start": 143,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "216",
+            "startNodeElementId": "143",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 96,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "break语句"
+        },
+        "elementId": "96"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 96,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "break语句"
+            },
+            "elementId": "96"
+          },
+          "relationship": {
+            "identity": 217,
+            "start": 96,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "217",
+            "startNodeElementId": "96",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 87,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "整型数据"
+        },
+        "elementId": "87"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 87,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "整型数据"
+            },
+            "elementId": "87"
+          },
+          "relationship": {
+            "identity": 218,
+            "start": 87,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "218",
+            "startNodeElementId": "87",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 138,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数据文件"
+        },
+        "elementId": "138"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 138,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数据文件"
+            },
+            "elementId": "138"
+          },
+          "relationship": {
+            "identity": 219,
+            "start": 138,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "219",
+            "startNodeElementId": "138",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 141,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "文件位置标记的定位"
+        },
+        "elementId": "141"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 141,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "文件位置标记的定位"
+            },
+            "elementId": "141"
+          },
+          "relationship": {
+            "identity": 220,
+            "start": 141,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "220",
+            "startNodeElementId": "141",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 101,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组的输入输出"
+        },
+        "elementId": "101"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 101,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组的输入输出"
+            },
+            "elementId": "101"
+          },
+          "relationship": {
+            "identity": 221,
+            "start": 101,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "221",
+            "startNodeElementId": "101",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 142,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "文件读写的出错检测"
+        },
+        "elementId": "142"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 142,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "文件读写的出错检测"
+            },
+            "elementId": "142"
+          },
+          "relationship": {
+            "identity": 222,
+            "start": 142,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "222",
+            "startNodeElementId": "142",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 95,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "循环结构程序设计"
+        },
+        "elementId": "95"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 95,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "循环结构程序设计"
+            },
+            "elementId": "95"
+          },
+          "relationship": {
+            "identity": 223,
+            "start": 95,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "223",
+            "startNodeElementId": "95",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 117,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "外部函数"
+        },
+        "elementId": "117"
+      },
+      "end": {
+        "identity": 165,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "165"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 117,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "外部函数"
+            },
+            "elementId": "117"
+          },
+          "relationship": {
+            "identity": 224,
+            "start": 117,
+            "end": 165,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "224",
+            "startNodeElementId": "117",
+            "endNodeElementId": "165"
+          },
+          "end": {
+            "identity": 165,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "165"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 94,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "条件运算符"
+        },
+        "elementId": "94"
+      },
+      "end": {
+        "identity": 167,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "167"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 94,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "条件运算符"
+            },
+            "elementId": "94"
+          },
+          "relationship": {
+            "identity": 225,
+            "start": 94,
+            "end": 167,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "225",
+            "startNodeElementId": "94",
+            "endNodeElementId": "167"
+          },
+          "end": {
+            "identity": 167,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "167"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 86,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "标识符"
+        },
+        "elementId": "86"
+      },
+      "end": {
+        "identity": 166,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "166"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 86,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "标识符"
+            },
+            "elementId": "86"
+          },
+          "relationship": {
+            "identity": 226,
+            "start": 86,
+            "end": 166,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "226",
+            "startNodeElementId": "86",
+            "endNodeElementId": "166"
+          },
+          "end": {
+            "identity": 166,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "166"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 118,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针",
+          "book": "《C和指针》第九、十、十一章",
+          "video":"https://www.bilibili.com/video/BV1pP4y1f7ts/?spm_id_from=333.337.search-card.all.click",
+          "博客":"https://blog.csdn.net/liu100m/article/details/90731422"
+        },
+        "elementId": "118"
+      },
+      "end": {
+        "identity": 164,
+        "labels": [
+          "Priority"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "164"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 118,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针",
+              "book recommend": "《C和指针》第九、十、十一章",
+              "video":"https://www.bilibili.com/video/BV1pP4y1f7ts/?spm_id_from=333.337.search-card.all.click",
+              "blog":"https://blog.csdn.net/liu100m/article/details/90731422"
+            },
+            "elementId": "118"
+          },
+          "relationship": {
+            "identity": 227,
+            "start": 118,
+            "end": 164,
+            "type": "importance",
+            "properties": {
+              "name": "重要程度"
+            },
+            "elementId": "227",
+            "startNodeElementId": "118",
+            "endNodeElementId": "164"
+          },
+          "end": {
+            "identity": 164,
+            "labels": [
+              "Priority"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "164"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

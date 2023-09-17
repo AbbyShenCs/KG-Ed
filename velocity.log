@@ -1,0 +1,234 @@
+2023-05-06 10:33:12,717 - Log4JLogChute initialized using file 'velocity.log'
+2023-05-06 10:33:12,717 - Initializing Velocity, Calling init()...
+2023-05-06 10:33:12,717 - Starting Apache Velocity v1.7 (compiled: 2010-11-19 12:14:37)
+2023-05-06 10:33:12,717 - Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+2023-05-06 10:33:12,717 - Trying to use logger class org.apache.velocity.runtime.log.AvalonLogChute
+2023-05-06 10:33:12,718 - Target log system for org.apache.velocity.runtime.log.AvalonLogChute is not available (java.lang.NoClassDefFoundError: org/apache/log/format/Formatter).  Falling back to next log system...
+2023-05-06 10:33:12,718 - Trying to use logger class org.apache.velocity.runtime.log.Log4JLogChute
+2023-05-06 10:33:12,718 - Using logger class org.apache.velocity.runtime.log.Log4JLogChute
+2023-05-06 10:33:12,720 - ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:12,728 - ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl) with class java.util.Collections$SynchronizedMap cache map.
+2023-05-06 10:33:12,729 - Loaded System Directive: org.apache.velocity.runtime.directive.Stop
+2023-05-06 10:33:12,729 - Loaded System Directive: org.apache.velocity.runtime.directive.Define
+2023-05-06 10:33:12,730 - Loaded System Directive: org.apache.velocity.runtime.directive.Break
+2023-05-06 10:33:12,730 - Loaded System Directive: org.apache.velocity.runtime.directive.Evaluate
+2023-05-06 10:33:12,731 - Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+2023-05-06 10:33:12,732 - Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+2023-05-06 10:33:12,733 - Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+2023-05-06 10:33:12,734 - Loaded System Directive: org.apache.velocity.runtime.directive.Include
+2023-05-06 10:33:12,734 - Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+2023-05-06 10:33:12,757 - Created '20' parsers.
+2023-05-06 10:33:12,760 - Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+2023-05-06 10:33:12,760 - Could not load resource 'VM_global_library.vm' from ResourceLoader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader: ClasspathResourceLoader Error: cannot find resource VM_global_library.vm
+2023-05-06 10:33:12,760 - Velocimacro : Default library not found.
+2023-05-06 10:33:12,760 - Velocimacro : allowInline = true : VMs can be defined inline in templates
+2023-05-06 10:33:12,760 - Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+2023-05-06 10:33:12,760 - Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+2023-05-06 10:33:12,760 - Velocimacro : autoload off : VM system will not automatically reload global library macros
+2023-05-06 10:33:12,774 - ResourceManager : found vm/java/domain.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:12,782 - ResourceManager : found vm/java/mapper.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:12,784 - ResourceManager : found vm/java/service.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:12,786 - ResourceManager : found vm/java/serviceImpl.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:12,788 - ResourceManager : found vm/java/controller.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:12,790 - ResourceManager : found vm/xml/mapper.xml.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:12,793 - ResourceManager : found vm/html/list.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:12,796 - ResourceManager : found vm/html/add.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:12,797 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-06 10:33:12,797 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-06 10:33:12,797 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-06 10:33:12,797 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-06 10:33:12,797 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-06 10:33:12,797 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-06 10:33:12,800 - ResourceManager : found vm/html/edit.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:12,800 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-06 10:33:12,800 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-06 10:33:12,800 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-06 10:33:12,800 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-06 10:33:12,800 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-06 10:33:12,800 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-06 10:33:12,801 - ResourceManager : found vm/sql/sql.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:55,484 - ResourceManager : found vm/java/domain.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:55,487 - ResourceManager : found vm/java/mapper.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:55,487 - ResourceManager : found vm/java/service.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:55,489 - ResourceManager : found vm/java/serviceImpl.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:55,491 - ResourceManager : found vm/java/controller.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:55,495 - ResourceManager : found vm/xml/mapper.xml.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:55,497 - ResourceManager : found vm/html/list.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:55,498 - Null reference [template 'vm/html/list.html.vm', line 33, column 61] : ${type} cannot be resolved.
+2023-05-06 10:33:55,498 - Null reference [template 'vm/html/list.html.vm', line 33, column 79] : ${dict.dictLabel} cannot be resolved.
+2023-05-06 10:33:55,498 - Null reference [template 'vm/html/list.html.vm', line 33, column 108] : ${dict.dictValue} cannot be resolved.
+2023-05-06 10:33:55,501 - ResourceManager : found vm/html/add.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:55,501 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-06 10:33:55,501 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-06 10:33:55,501 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-06 10:33:55,501 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-06 10:33:55,501 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-06 10:33:55,501 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-06 10:33:55,501 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-06 10:33:55,501 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-06 10:33:55,501 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-06 10:33:55,501 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-06 10:33:55,503 - ResourceManager : found vm/html/edit.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-06 10:33:55,503 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-06 10:33:55,503 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-06 10:33:55,503 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-06 10:33:55,503 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-06 10:33:55,503 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-06 10:33:55,503 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-06 10:33:55,503 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-06 10:33:55,503 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-06 10:33:55,503 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-06 10:33:55,503 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-06 10:33:55,504 - ResourceManager : found vm/sql/sql.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,415 - Log4JLogChute initialized using file 'velocity.log'
+2023-05-14 21:18:28,415 - Initializing Velocity, Calling init()...
+2023-05-14 21:18:28,415 - Starting Apache Velocity v1.7 (compiled: 2010-11-19 12:14:37)
+2023-05-14 21:18:28,415 - Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+2023-05-14 21:18:28,415 - Trying to use logger class org.apache.velocity.runtime.log.AvalonLogChute
+2023-05-14 21:18:28,415 - Target log system for org.apache.velocity.runtime.log.AvalonLogChute is not available (java.lang.NoClassDefFoundError: org/apache/log/format/Formatter).  Falling back to next log system...
+2023-05-14 21:18:28,415 - Trying to use logger class org.apache.velocity.runtime.log.Log4JLogChute
+2023-05-14 21:18:28,415 - Using logger class org.apache.velocity.runtime.log.Log4JLogChute
+2023-05-14 21:18:28,418 - ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,425 - ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl) with class java.util.Collections$SynchronizedMap cache map.
+2023-05-14 21:18:28,426 - Loaded System Directive: org.apache.velocity.runtime.directive.Stop
+2023-05-14 21:18:28,426 - Loaded System Directive: org.apache.velocity.runtime.directive.Define
+2023-05-14 21:18:28,427 - Loaded System Directive: org.apache.velocity.runtime.directive.Break
+2023-05-14 21:18:28,427 - Loaded System Directive: org.apache.velocity.runtime.directive.Evaluate
+2023-05-14 21:18:28,427 - Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+2023-05-14 21:18:28,428 - Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+2023-05-14 21:18:28,429 - Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+2023-05-14 21:18:28,429 - Loaded System Directive: org.apache.velocity.runtime.directive.Include
+2023-05-14 21:18:28,430 - Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+2023-05-14 21:18:28,442 - Created '20' parsers.
+2023-05-14 21:18:28,445 - Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+2023-05-14 21:18:28,446 - Could not load resource 'VM_global_library.vm' from ResourceLoader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader: ClasspathResourceLoader Error: cannot find resource VM_global_library.vm
+2023-05-14 21:18:28,446 - Velocimacro : Default library not found.
+2023-05-14 21:18:28,446 - Velocimacro : allowInline = true : VMs can be defined inline in templates
+2023-05-14 21:18:28,446 - Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+2023-05-14 21:18:28,446 - Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+2023-05-14 21:18:28,446 - Velocimacro : autoload off : VM system will not automatically reload global library macros
+2023-05-14 21:18:28,460 - ResourceManager : found vm/java/domain.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,465 - Null reference [template 'vm/java/domain.java.vm', line 28, column 9] : $column.columnComment cannot be resolved.
+2023-05-14 21:18:28,469 - ResourceManager : found vm/java/mapper.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,471 - ResourceManager : found vm/java/service.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,473 - ResourceManager : found vm/java/serviceImpl.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,475 - ResourceManager : found vm/java/controller.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,477 - ResourceManager : found vm/xml/mapper.xml.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,481 - ResourceManager : found vm/html/list.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,484 - RHS of #set statement is null. Context will not be modified. vm/html/list.html.vm[line 106, column 1]
+2023-05-14 21:18:28,485 - RHS of #set statement is null. Context will not be modified. vm/html/list.html.vm[line 110, column 1]
+2023-05-14 21:18:28,487 - ResourceManager : found vm/html/add.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,487 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 21:18:28,488 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 21:18:28,488 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 21:18:28,488 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 21:18:28,488 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 21:18:28,488 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 21:18:28,491 - ResourceManager : found vm/html/edit.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:18:28,491 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 21:18:28,491 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 21:18:28,492 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 21:18:28,492 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 21:18:28,492 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 21:18:28,492 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 21:18:28,492 - ResourceManager : found vm/sql/sql.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:19:19,906 - ResourceManager : found vm/java/domain.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:19:19,907 - Null reference [template 'vm/java/domain.java.vm', line 28, column 9] : $column.columnComment cannot be resolved.
+2023-05-14 21:19:19,908 - ResourceManager : found vm/java/mapper.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:19:19,909 - ResourceManager : found vm/java/service.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:19:19,911 - ResourceManager : found vm/java/serviceImpl.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:19:19,912 - ResourceManager : found vm/java/controller.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:19:19,920 - ResourceManager : found vm/xml/mapper.xml.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:19:19,923 - ResourceManager : found vm/html/list.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:19:19,923 - RHS of #set statement is null. Context will not be modified. vm/html/list.html.vm[line 106, column 1]
+2023-05-14 21:19:19,924 - RHS of #set statement is null. Context will not be modified. vm/html/list.html.vm[line 110, column 1]
+2023-05-14 21:19:19,925 - ResourceManager : found vm/html/add.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:19:19,925 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 21:19:19,925 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 21:19:19,925 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 21:19:19,925 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 21:19:19,926 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 21:19:19,926 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 21:19:19,927 - ResourceManager : found vm/html/edit.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:19:19,927 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 21:19:19,927 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 21:19:19,927 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 21:19:19,927 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 21:19:19,927 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 21:19:19,927 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 21:19:19,928 - ResourceManager : found vm/sql/sql.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:20:44,981 - ResourceManager : found vm/java/domain.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:20:44,981 - Null reference [template 'vm/java/domain.java.vm', line 28, column 9] : $column.columnComment cannot be resolved.
+2023-05-14 21:20:44,982 - ResourceManager : found vm/java/mapper.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:20:44,982 - ResourceManager : found vm/java/service.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:20:44,983 - ResourceManager : found vm/java/serviceImpl.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:20:44,984 - ResourceManager : found vm/java/controller.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:20:44,985 - ResourceManager : found vm/xml/mapper.xml.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:20:44,986 - ResourceManager : found vm/html/list.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:20:44,987 - RHS of #set statement is null. Context will not be modified. vm/html/list.html.vm[line 106, column 1]
+2023-05-14 21:20:44,987 - RHS of #set statement is null. Context will not be modified. vm/html/list.html.vm[line 110, column 1]
+2023-05-14 21:20:44,988 - ResourceManager : found vm/html/add.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:20:44,989 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 21:20:44,989 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 21:20:44,989 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 21:20:44,989 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 21:20:44,989 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 21:20:44,989 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 21:20:44,991 - ResourceManager : found vm/html/edit.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 21:20:44,991 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 21:20:44,991 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 21:20:44,991 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 21:20:44,992 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 21:20:44,992 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 21:20:44,992 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 21:20:44,993 - ResourceManager : found vm/sql/sql.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:26,168 - ResourceManager : found vm/java/domain.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:26,168 - Null reference [template 'vm/java/domain.java.vm', line 28, column 9] : $column.columnComment cannot be resolved.
+2023-05-14 22:01:26,169 - ResourceManager : found vm/java/mapper.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:26,169 - ResourceManager : found vm/java/service.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:26,170 - ResourceManager : found vm/java/serviceImpl.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:26,171 - ResourceManager : found vm/java/controller.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:26,173 - ResourceManager : found vm/xml/mapper.xml.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:26,177 - ResourceManager : found vm/html/list.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:26,178 - RHS of #set statement is null. Context will not be modified. vm/html/list.html.vm[line 106, column 1]
+2023-05-14 22:01:26,178 - RHS of #set statement is null. Context will not be modified. vm/html/list.html.vm[line 110, column 1]
+2023-05-14 22:01:26,180 - ResourceManager : found vm/html/add.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:26,180 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 22:01:26,180 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 22:01:26,180 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 22:01:26,180 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 22:01:26,180 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 22:01:26,180 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 22:01:26,182 - ResourceManager : found vm/html/edit.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:26,182 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 22:01:26,182 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 22:01:26,183 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 22:01:26,183 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 22:01:26,183 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 22:01:26,183 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 22:01:26,183 - ResourceManager : found vm/sql/sql.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:51,336 - ResourceManager : found vm/java/domain.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:51,336 - Null reference [template 'vm/java/domain.java.vm', line 28, column 9] : $column.columnComment cannot be resolved.
+2023-05-14 22:01:51,338 - ResourceManager : found vm/java/mapper.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:51,339 - ResourceManager : found vm/java/service.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:51,340 - ResourceManager : found vm/java/serviceImpl.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:51,341 - ResourceManager : found vm/java/controller.java.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:51,343 - ResourceManager : found vm/xml/mapper.xml.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:51,344 - ResourceManager : found vm/html/list.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:51,345 - RHS of #set statement is null. Context will not be modified. vm/html/list.html.vm[line 106, column 1]
+2023-05-14 22:01:51,345 - RHS of #set statement is null. Context will not be modified. vm/html/list.html.vm[line 110, column 1]
+2023-05-14 22:01:51,346 - ResourceManager : found vm/html/add.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:51,347 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 22:01:51,347 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 22:01:51,347 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 22:01:51,347 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 22:01:51,347 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 10]
+2023-05-14 22:01:51,347 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/add.html.vm[line 26, column 50]
+2023-05-14 22:01:51,347 - ResourceManager : found vm/html/edit.html.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+2023-05-14 22:01:51,348 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 22:01:51,348 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 22:01:51,348 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 22:01:51,348 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 22:01:51,348 - Right side ($treeParentCode) of '!=' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 10]
+2023-05-14 22:01:51,348 - Right side ($treeParentCode) of '==' operation has null value. If it is a reference, it may not be in the context or its toString() returned null. vm/html/edit.html.vm[line 27, column 50]
+2023-05-14 22:01:51,348 - ResourceManager : found vm/sql/sql.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader

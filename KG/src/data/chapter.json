@@ -1,0 +1,4638 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 123,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针数组"
+        },
+        "elementId": "123"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 123,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针数组"
+            },
+            "elementId": "123"
+          },
+          "relationship": {
+            "identity": 76,
+            "start": 123,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "76",
+            "startNodeElementId": "123",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 78,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "机器语言"
+        },
+        "elementId": "78"
+      },
+      "end": {
+        "identity": 160,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "160"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 78,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "机器语言"
+            },
+            "elementId": "78"
+          },
+          "relationship": {
+            "identity": 77,
+            "start": 78,
+            "end": 160,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "77",
+            "startNodeElementId": "78",
+            "endNodeElementId": "160"
+          },
+          "end": {
+            "identity": 160,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "160"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 81,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "C语言特点"
+        },
+        "elementId": "81"
+      },
+      "end": {
+        "identity": 160,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "160"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 81,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "C语言特点"
+            },
+            "elementId": "81"
+          },
+          "relationship": {
+            "identity": 78,
+            "start": 81,
+            "end": 160,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "78",
+            "startNodeElementId": "81",
+            "endNodeElementId": "160"
+          },
+          "end": {
+            "identity": 160,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "160"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 79,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "汇编语言"
+        },
+        "elementId": "79"
+      },
+      "end": {
+        "identity": 160,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "160"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 79,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "汇编语言"
+            },
+            "elementId": "79"
+          },
+          "relationship": {
+            "identity": 79,
+            "start": 79,
+            "end": 160,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "79",
+            "startNodeElementId": "79",
+            "endNodeElementId": "160"
+          },
+          "end": {
+            "identity": 160,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "160"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 103,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符串连接函数"
+        },
+        "elementId": "103"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 103,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符串连接函数"
+            },
+            "elementId": "103"
+          },
+          "relationship": {
+            "identity": 80,
+            "start": 103,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "80",
+            "startNodeElementId": "103",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 85,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "变量"
+        },
+        "elementId": "85"
+      },
+      "end": {
+        "identity": 163,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "163"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 85,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "变量"
+            },
+            "elementId": "85"
+          },
+          "relationship": {
+            "identity": 81,
+            "start": 85,
+            "end": 163,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "81",
+            "startNodeElementId": "85",
+            "endNodeElementId": "163"
+          },
+          "end": {
+            "identity": 163,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "163"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 86,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "标识符"
+        },
+        "elementId": "86"
+      },
+      "end": {
+        "identity": 163,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "163"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 86,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "标识符"
+            },
+            "elementId": "86"
+          },
+          "relationship": {
+            "identity": 82,
+            "start": 86,
+            "end": 163,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "82",
+            "startNodeElementId": "86",
+            "endNodeElementId": "163"
+          },
+          "end": {
+            "identity": 163,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "163"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 126,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "calloc函数"
+        },
+        "elementId": "126"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 126,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "calloc函数"
+            },
+            "elementId": "126"
+          },
+          "relationship": {
+            "identity": 83,
+            "start": 126,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "83",
+            "startNodeElementId": "126",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 115,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "动态存储方式"
+        },
+        "elementId": "115"
+      },
+      "end": {
+        "identity": 155,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "7"
+        },
+        "elementId": "155"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 115,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "动态存储方式"
+            },
+            "elementId": "115"
+          },
+          "relationship": {
+            "identity": 84,
+            "start": 115,
+            "end": 155,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "84",
+            "startNodeElementId": "115",
+            "endNodeElementId": "155"
+          },
+          "end": {
+            "identity": 155,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "7"
+            },
+            "elementId": "155"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 136,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "typedef声明类型"
+        },
+        "elementId": "136"
+      },
+      "end": {
+        "identity": 161,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "9"
+        },
+        "elementId": "161"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 136,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "typedef声明类型"
+            },
+            "elementId": "136"
+          },
+          "relationship": {
+            "identity": 85,
+            "start": 136,
+            "end": 161,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "85",
+            "startNodeElementId": "136",
+            "endNodeElementId": "161"
+          },
+          "end": {
+            "identity": 161,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "9"
+            },
+            "elementId": "161"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 100,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组"
+        },
+        "elementId": "100"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 100,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组"
+            },
+            "elementId": "100"
+          },
+          "relationship": {
+            "identity": 86,
+            "start": 100,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "86",
+            "startNodeElementId": "100",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 141,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "文件位置标记的定位"
+        },
+        "elementId": "141"
+      },
+      "end": {
+        "identity": 153,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "10"
+        },
+        "elementId": "153"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 141,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "文件位置标记的定位"
+            },
+            "elementId": "141"
+          },
+          "relationship": {
+            "identity": 87,
+            "start": 141,
+            "end": 153,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "87",
+            "startNodeElementId": "141",
+            "endNodeElementId": "153"
+          },
+          "end": {
+            "identity": 153,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "10"
+            },
+            "elementId": "153"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 105,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符串比较函数"
+        },
+        "elementId": "105"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 105,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符串比较函数"
+            },
+            "elementId": "105"
+          },
+          "relationship": {
+            "identity": 88,
+            "start": 105,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "88",
+            "startNodeElementId": "105",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 151,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "条件表达式"
+        },
+        "elementId": "151"
+      },
+      "end": {
+        "identity": 156,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "11"
+        },
+        "elementId": "156"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 151,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "条件表达式"
+            },
+            "elementId": "151"
+          },
+          "relationship": {
+            "identity": 89,
+            "start": 151,
+            "end": 156,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "89",
+            "startNodeElementId": "151",
+            "endNodeElementId": "156"
+          },
+          "end": {
+            "identity": 156,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "11"
+            },
+            "elementId": "156"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 130,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "结构体变量的初始化和引用"
+        },
+        "elementId": "130"
+      },
+      "end": {
+        "identity": 161,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "9"
+        },
+        "elementId": "161"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 130,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "结构体变量的初始化和引用"
+            },
+            "elementId": "130"
+          },
+          "relationship": {
+            "identity": 90,
+            "start": 130,
+            "end": 161,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "90",
+            "startNodeElementId": "130",
+            "endNodeElementId": "161"
+          },
+          "end": {
+            "identity": 161,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "9"
+            },
+            "elementId": "161"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 94,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "条件运算符"
+        },
+        "elementId": "94"
+      },
+      "end": {
+        "identity": 154,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "154"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 94,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "条件运算符"
+            },
+            "elementId": "94"
+          },
+          "relationship": {
+            "identity": 91,
+            "start": 94,
+            "end": 154,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "91",
+            "startNodeElementId": "94",
+            "endNodeElementId": "154"
+          },
+          "end": {
+            "identity": 154,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "154"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 98,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数组"
+        },
+        "elementId": "98"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 98,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数组"
+            },
+            "elementId": "98"
+          },
+          "relationship": {
+            "identity": 92,
+            "start": 98,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "92",
+            "startNodeElementId": "98",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 93,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "逻辑运算符"
+        },
+        "elementId": "93"
+      },
+      "end": {
+        "identity": 154,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "154"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 93,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "逻辑运算符"
+            },
+            "elementId": "93"
+          },
+          "relationship": {
+            "identity": 93,
+            "start": 93,
+            "end": 154,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "93",
+            "startNodeElementId": "93",
+            "endNodeElementId": "154"
+          },
+          "end": {
+            "identity": 154,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "154"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 134,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "共用体类型"
+        },
+        "elementId": "134"
+      },
+      "end": {
+        "identity": 161,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "9"
+        },
+        "elementId": "161"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 134,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "共用体类型"
+            },
+            "elementId": "134"
+          },
+          "relationship": {
+            "identity": 94,
+            "start": 134,
+            "end": 161,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "94",
+            "startNodeElementId": "134",
+            "endNodeElementId": "161"
+          },
+          "end": {
+            "identity": 161,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "9"
+            },
+            "elementId": "161"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 137,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "程序文件"
+        },
+        "elementId": "137"
+      },
+      "end": {
+        "identity": 153,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "10"
+        },
+        "elementId": "153"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 137,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "程序文件"
+            },
+            "elementId": "137"
+          },
+          "relationship": {
+            "identity": 95,
+            "start": 137,
+            "end": 153,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "95",
+            "startNodeElementId": "137",
+            "endNodeElementId": "153"
+          },
+          "end": {
+            "identity": 153,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "10"
+            },
+            "elementId": "153"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 128,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "realloc函数"
+        },
+        "elementId": "128"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 128,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "realloc函数"
+            },
+            "elementId": "128"
+          },
+          "relationship": {
+            "identity": 96,
+            "start": 128,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "96",
+            "startNodeElementId": "128",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 102,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "输出字符串的函数"
+        },
+        "elementId": "102"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 102,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "输出字符串的函数"
+            },
+            "elementId": "102"
+          },
+          "relationship": {
+            "identity": 97,
+            "start": 102,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "97",
+            "startNodeElementId": "102",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 109,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "函数调用时的数据传递"
+        },
+        "elementId": "109"
+      },
+      "end": {
+        "identity": 155,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "7"
+        },
+        "elementId": "155"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 109,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "函数调用时的数据传递"
+            },
+            "elementId": "109"
+          },
+          "relationship": {
+            "identity": 98,
+            "start": 109,
+            "end": 155,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "98",
+            "startNodeElementId": "109",
+            "endNodeElementId": "155"
+          },
+          "end": {
+            "identity": 155,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "7"
+            },
+            "elementId": "155"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 110,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数组元素作函数实参"
+        },
+        "elementId": "110"
+      },
+      "end": {
+        "identity": 155,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "7"
+        },
+        "elementId": "155"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 110,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数组元素作函数实参"
+            },
+            "elementId": "110"
+          },
+          "relationship": {
+            "identity": 99,
+            "start": 110,
+            "end": 155,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "99",
+            "startNodeElementId": "110",
+            "endNodeElementId": "155"
+          },
+          "end": {
+            "identity": 155,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "7"
+            },
+            "elementId": "155"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 113,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "全局变量"
+        },
+        "elementId": "113"
+      },
+      "end": {
+        "identity": 155,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "7"
+        },
+        "elementId": "155"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 113,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "全局变量"
+            },
+            "elementId": "113"
+          },
+          "relationship": {
+            "identity": 100,
+            "start": 113,
+            "end": 155,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "100",
+            "startNodeElementId": "113",
+            "endNodeElementId": "155"
+          },
+          "end": {
+            "identity": 155,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "7"
+            },
+            "elementId": "155"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 112,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "局部变量"
+        },
+        "elementId": "112"
+      },
+      "end": {
+        "identity": 155,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "7"
+        },
+        "elementId": "155"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 112,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "局部变量"
+            },
+            "elementId": "112"
+          },
+          "relationship": {
+            "identity": 101,
+            "start": 112,
+            "end": 155,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "101",
+            "startNodeElementId": "112",
+            "endNodeElementId": "155"
+          },
+          "end": {
+            "identity": 155,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "7"
+            },
+            "elementId": "155"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 118,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针"
+        },
+        "elementId": "118"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 118,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针"
+            },
+            "elementId": "118"
+          },
+          "relationship": {
+            "identity": 102,
+            "start": 118,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "102",
+            "startNodeElementId": "118",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 125,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "malloc函数"
+        },
+        "elementId": "125"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 125,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "malloc函数"
+            },
+            "elementId": "125"
+          },
+          "relationship": {
+            "identity": 103,
+            "start": 125,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "103",
+            "startNodeElementId": "125",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 143,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "ferror函数"
+        },
+        "elementId": "143"
+      },
+      "end": {
+        "identity": 153,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "10"
+        },
+        "elementId": "153"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 143,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "ferror函数"
+            },
+            "elementId": "143"
+          },
+          "relationship": {
+            "identity": 104,
+            "start": 143,
+            "end": 153,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "104",
+            "startNodeElementId": "143",
+            "endNodeElementId": "153"
+          },
+          "end": {
+            "identity": 153,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "10"
+            },
+            "elementId": "153"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 111,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数组名作函数参数"
+        },
+        "elementId": "111"
+      },
+      "end": {
+        "identity": 155,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "7"
+        },
+        "elementId": "155"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 111,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数组名作函数参数"
+            },
+            "elementId": "111"
+          },
+          "relationship": {
+            "identity": 105,
+            "start": 111,
+            "end": 155,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "105",
+            "startNodeElementId": "111",
+            "endNodeElementId": "155"
+          },
+          "end": {
+            "identity": 155,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "7"
+            },
+            "elementId": "155"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 145,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "整型常量"
+        },
+        "elementId": "145"
+      },
+      "end": {
+        "identity": 156,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "11"
+        },
+        "elementId": "156"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 145,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "整型常量"
+            },
+            "elementId": "145"
+          },
+          "relationship": {
+            "identity": 106,
+            "start": 145,
+            "end": 156,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "106",
+            "startNodeElementId": "145",
+            "endNodeElementId": "156"
+          },
+          "end": {
+            "identity": 156,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "11"
+            },
+            "elementId": "156"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 96,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "break语句"
+        },
+        "elementId": "96"
+      },
+      "end": {
+        "identity": 162,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "5"
+        },
+        "elementId": "162"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 96,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "break语句"
+            },
+            "elementId": "96"
+          },
+          "relationship": {
+            "identity": 107,
+            "start": 96,
+            "end": 162,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "107",
+            "startNodeElementId": "96",
+            "endNodeElementId": "162"
+          },
+          "end": {
+            "identity": 162,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "5"
+            },
+            "elementId": "162"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 101,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数组的输入输出"
+        },
+        "elementId": "101"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 101,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数组的输入输出"
+            },
+            "elementId": "101"
+          },
+          "relationship": {
+            "identity": 108,
+            "start": 101,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "108",
+            "startNodeElementId": "101",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 121,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数组元素的指针"
+        },
+        "elementId": "121"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 121,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数组元素的指针"
+            },
+            "elementId": "121"
+          },
+          "relationship": {
+            "identity": 109,
+            "start": 121,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "109",
+            "startNodeElementId": "121",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "C语句分类"
+        },
+        "elementId": "90"
+      },
+      "end": {
+        "identity": 163,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "163"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "C语句分类"
+            },
+            "elementId": "90"
+          },
+          "relationship": {
+            "identity": 110,
+            "start": 90,
+            "end": 163,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "110",
+            "startNodeElementId": "90",
+            "endNodeElementId": "163"
+          },
+          "end": {
+            "identity": 163,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "163"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 92,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "关系运算符"
+        },
+        "elementId": "92"
+      },
+      "end": {
+        "identity": 154,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "4"
+        },
+        "elementId": "154"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 92,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "关系运算符"
+            },
+            "elementId": "92"
+          },
+          "relationship": {
+            "identity": 111,
+            "start": 92,
+            "end": 154,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "111",
+            "startNodeElementId": "92",
+            "endNodeElementId": "154"
+          },
+          "end": {
+            "identity": 154,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "4"
+            },
+            "elementId": "154"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 106,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "测字符串长度的函数"
+        },
+        "elementId": "106"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 106,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "测字符串长度的函数"
+            },
+            "elementId": "106"
+          },
+          "relationship": {
+            "identity": 112,
+            "start": 106,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "112",
+            "startNodeElementId": "106",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 144,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "clearerr 函数"
+        },
+        "elementId": "144"
+      },
+      "end": {
+        "identity": 153,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "10"
+        },
+        "elementId": "153"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 144,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "clearerr 函数"
+            },
+            "elementId": "144"
+          },
+          "relationship": {
+            "identity": 113,
+            "start": 144,
+            "end": 153,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "113",
+            "startNodeElementId": "144",
+            "endNodeElementId": "153"
+          },
+          "end": {
+            "identity": 153,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "10"
+            },
+            "elementId": "153"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 89,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "浮点型数据"
+        },
+        "elementId": "89"
+      },
+      "end": {
+        "identity": 163,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "163"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 89,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "浮点型数据"
+            },
+            "elementId": "89"
+          },
+          "relationship": {
+            "identity": 114,
+            "start": 89,
+            "end": 163,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "114",
+            "startNodeElementId": "89",
+            "endNodeElementId": "163"
+          },
+          "end": {
+            "identity": 163,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "163"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 99,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "二维数组"
+        },
+        "elementId": "99"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 99,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "二维数组"
+            },
+            "elementId": "99"
+          },
+          "relationship": {
+            "identity": 115,
+            "start": 99,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "115",
+            "startNodeElementId": "99",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 149,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "强制类型转换"
+        },
+        "elementId": "149"
+      },
+      "end": {
+        "identity": 156,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "11"
+        },
+        "elementId": "156"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 149,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "强制类型转换"
+            },
+            "elementId": "149"
+          },
+          "relationship": {
+            "identity": 116,
+            "start": 149,
+            "end": 156,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "116",
+            "startNodeElementId": "149",
+            "endNodeElementId": "156"
+          },
+          "end": {
+            "identity": 156,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "11"
+            },
+            "elementId": "156"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 87,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "整型数据"
+        },
+        "elementId": "87"
+      },
+      "end": {
+        "identity": 163,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "163"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 87,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "整型数据"
+            },
+            "elementId": "87"
+          },
+          "relationship": {
+            "identity": 117,
+            "start": 87,
+            "end": 163,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "117",
+            "startNodeElementId": "87",
+            "endNodeElementId": "163"
+          },
+          "end": {
+            "identity": 163,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "163"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 107,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "转换为小写的函数"
+        },
+        "elementId": "107"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 107,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "转换为小写的函数"
+            },
+            "elementId": "107"
+          },
+          "relationship": {
+            "identity": 118,
+            "start": 107,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "118",
+            "startNodeElementId": "107",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 124,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "内存的动态分配"
+        },
+        "elementId": "124"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 124,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "内存的动态分配"
+            },
+            "elementId": "124"
+          },
+          "relationship": {
+            "identity": 119,
+            "start": 124,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "119",
+            "startNodeElementId": "124",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 146,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符常量"
+        },
+        "elementId": "146"
+      },
+      "end": {
+        "identity": 156,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "11"
+        },
+        "elementId": "156"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 146,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符常量"
+            },
+            "elementId": "146"
+          },
+          "relationship": {
+            "identity": 120,
+            "start": 146,
+            "end": 156,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "120",
+            "startNodeElementId": "146",
+            "endNodeElementId": "156"
+          },
+          "end": {
+            "identity": 156,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "11"
+            },
+            "elementId": "156"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 91,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符数据的输入输出"
+        },
+        "elementId": "91"
+      },
+      "end": {
+        "identity": 163,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "163"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 91,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符数据的输入输出"
+            },
+            "elementId": "91"
+          },
+          "relationship": {
+            "identity": 121,
+            "start": 91,
+            "end": 163,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "121",
+            "startNodeElementId": "91",
+            "endNodeElementId": "163"
+          },
+          "end": {
+            "identity": 163,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "163"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 119,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "指针变量"
+        },
+        "elementId": "119"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 119,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "指针变量"
+            },
+            "elementId": "119"
+          },
+          "relationship": {
+            "identity": 122,
+            "start": 119,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "122",
+            "startNodeElementId": "119",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 148,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "逻辑表达式"
+        },
+        "elementId": "148"
+      },
+      "end": {
+        "identity": 156,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "11"
+        },
+        "elementId": "156"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 148,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "逻辑表达式"
+            },
+            "elementId": "148"
+          },
+          "relationship": {
+            "identity": 123,
+            "start": 148,
+            "end": 156,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "123",
+            "startNodeElementId": "148",
+            "endNodeElementId": "156"
+          },
+          "end": {
+            "identity": 156,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "11"
+            },
+            "elementId": "156"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "高级语言"
+        },
+        "elementId": "80"
+      },
+      "end": {
+        "identity": 160,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "160"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "高级语言"
+            },
+            "elementId": "80"
+          },
+          "relationship": {
+            "identity": 124,
+            "start": 80,
+            "end": 160,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "124",
+            "startNodeElementId": "80",
+            "endNodeElementId": "160"
+          },
+          "end": {
+            "identity": 160,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "160"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 95,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "循环结构程序设计"
+        },
+        "elementId": "95"
+      },
+      "end": {
+        "identity": 162,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "5"
+        },
+        "elementId": "162"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 95,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "循环结构程序设计"
+            },
+            "elementId": "95"
+          },
+          "relationship": {
+            "identity": 125,
+            "start": 95,
+            "end": 162,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "125",
+            "startNodeElementId": "95",
+            "endNodeElementId": "162"
+          },
+          "end": {
+            "identity": 162,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "5"
+            },
+            "elementId": "162"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 132,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "链表"
+        },
+        "elementId": "132"
+      },
+      "end": {
+        "identity": 161,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "9"
+        },
+        "elementId": "161"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 132,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "链表"
+            },
+            "elementId": "132"
+          },
+          "relationship": {
+            "identity": 126,
+            "start": 132,
+            "end": 161,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "126",
+            "startNodeElementId": "132",
+            "endNodeElementId": "161"
+          },
+          "end": {
+            "identity": 161,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "9"
+            },
+            "elementId": "161"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 114,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "静态存储方式"
+        },
+        "elementId": "114"
+      },
+      "end": {
+        "identity": 155,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "7"
+        },
+        "elementId": "155"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 114,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "静态存储方式"
+            },
+            "elementId": "114"
+          },
+          "relationship": {
+            "identity": 127,
+            "start": 114,
+            "end": 155,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "127",
+            "startNodeElementId": "114",
+            "endNodeElementId": "155"
+          },
+          "end": {
+            "identity": 155,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "7"
+            },
+            "elementId": "155"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 129,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "结构体"
+        },
+        "elementId": "129"
+      },
+      "end": {
+        "identity": 161,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "9"
+        },
+        "elementId": "161"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 129,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "结构体"
+            },
+            "elementId": "129"
+          },
+          "relationship": {
+            "identity": 128,
+            "start": 129,
+            "end": 161,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "128",
+            "startNodeElementId": "129",
+            "endNodeElementId": "161"
+          },
+          "end": {
+            "identity": 161,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "9"
+            },
+            "elementId": "161"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 138,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "数据文件"
+        },
+        "elementId": "138"
+      },
+      "end": {
+        "identity": 153,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "10"
+        },
+        "elementId": "153"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 138,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "数据文件"
+            },
+            "elementId": "138"
+          },
+          "relationship": {
+            "identity": 129,
+            "start": 138,
+            "end": 153,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "129",
+            "startNodeElementId": "138",
+            "endNodeElementId": "153"
+          },
+          "end": {
+            "identity": 153,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "10"
+            },
+            "elementId": "153"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 142,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "文件读写的出错检测"
+        },
+        "elementId": "142"
+      },
+      "end": {
+        "identity": 153,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "10"
+        },
+        "elementId": "153"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 142,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "文件读写的出错检测"
+            },
+            "elementId": "142"
+          },
+          "relationship": {
+            "identity": 130,
+            "start": 142,
+            "end": 153,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "130",
+            "startNodeElementId": "142",
+            "endNodeElementId": "153"
+          },
+          "end": {
+            "identity": 153,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "10"
+            },
+            "elementId": "153"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 131,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "结构体指针"
+        },
+        "elementId": "131"
+      },
+      "end": {
+        "identity": 161,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "9"
+        },
+        "elementId": "161"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 131,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "结构体指针"
+            },
+            "elementId": "131"
+          },
+          "relationship": {
+            "identity": 131,
+            "start": 131,
+            "end": 161,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "131",
+            "startNodeElementId": "131",
+            "endNodeElementId": "161"
+          },
+          "end": {
+            "identity": 161,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "9"
+            },
+            "elementId": "161"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 88,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符型数据"
+        },
+        "elementId": "88"
+      },
+      "end": {
+        "identity": 163,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "163"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 88,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符型数据"
+            },
+            "elementId": "88"
+          },
+          "relationship": {
+            "identity": 132,
+            "start": 88,
+            "end": 163,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "132",
+            "startNodeElementId": "88",
+            "endNodeElementId": "163"
+          },
+          "end": {
+            "identity": 163,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "163"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 133,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "建立动态链表"
+        },
+        "elementId": "133"
+      },
+      "end": {
+        "identity": 161,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "9"
+        },
+        "elementId": "161"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 133,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "建立动态链表"
+            },
+            "elementId": "133"
+          },
+          "relationship": {
+            "identity": 133,
+            "start": 133,
+            "end": 161,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "133",
+            "startNodeElementId": "133",
+            "endNodeElementId": "161"
+          },
+          "end": {
+            "identity": 161,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "9"
+            },
+            "elementId": "161"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 77,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "计算机语言"
+        },
+        "elementId": "77"
+      },
+      "end": {
+        "identity": 160,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "160"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 77,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "计算机语言"
+            },
+            "elementId": "77"
+          },
+          "relationship": {
+            "identity": 134,
+            "start": 77,
+            "end": 160,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "134",
+            "startNodeElementId": "77",
+            "endNodeElementId": "160"
+          },
+          "end": {
+            "identity": 160,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "160"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 97,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "continue语句"
+        },
+        "elementId": "97"
+      },
+      "end": {
+        "identity": 162,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "5"
+        },
+        "elementId": "162"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 97,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "continue语句"
+            },
+            "elementId": "97"
+          },
+          "relationship": {
+            "identity": 135,
+            "start": 97,
+            "end": 162,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "135",
+            "startNodeElementId": "97",
+            "endNodeElementId": "162"
+          },
+          "end": {
+            "identity": 162,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "5"
+            },
+            "elementId": "162"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 84,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "常量"
+        },
+        "elementId": "84"
+      },
+      "end": {
+        "identity": 163,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "3"
+        },
+        "elementId": "163"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 84,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "常量"
+            },
+            "elementId": "84"
+          },
+          "relationship": {
+            "identity": 136,
+            "start": 84,
+            "end": 163,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "136",
+            "startNodeElementId": "84",
+            "endNodeElementId": "163"
+          },
+          "end": {
+            "identity": 163,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "3"
+            },
+            "elementId": "163"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 122,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "返回指针值的函数"
+        },
+        "elementId": "122"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 122,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "返回指针值的函数"
+            },
+            "elementId": "122"
+          },
+          "relationship": {
+            "identity": 137,
+            "start": 122,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "137",
+            "startNodeElementId": "122",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 147,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "算术表达式"
+        },
+        "elementId": "147"
+      },
+      "end": {
+        "identity": 156,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "11"
+        },
+        "elementId": "156"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 147,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "算术表达式"
+            },
+            "elementId": "147"
+          },
+          "relationship": {
+            "identity": 138,
+            "start": 147,
+            "end": 156,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "138",
+            "startNodeElementId": "147",
+            "endNodeElementId": "156"
+          },
+          "end": {
+            "identity": 156,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "11"
+            },
+            "elementId": "156"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 117,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "外部函数"
+        },
+        "elementId": "117"
+      },
+      "end": {
+        "identity": 155,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "7"
+        },
+        "elementId": "155"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 117,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "外部函数"
+            },
+            "elementId": "117"
+          },
+          "relationship": {
+            "identity": 139,
+            "start": 117,
+            "end": 155,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "139",
+            "startNodeElementId": "117",
+            "endNodeElementId": "155"
+          },
+          "end": {
+            "identity": 155,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "7"
+            },
+            "elementId": "155"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 83,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "算法的描述方法"
+        },
+        "elementId": "83"
+      },
+      "end": {
+        "identity": 159,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "159"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 83,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "算法的描述方法"
+            },
+            "elementId": "83"
+          },
+          "relationship": {
+            "identity": 140,
+            "start": 83,
+            "end": 159,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "140",
+            "startNodeElementId": "83",
+            "endNodeElementId": "159"
+          },
+          "end": {
+            "identity": 159,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "159"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 104,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "字符串复制函数"
+        },
+        "elementId": "104"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 104,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "字符串复制函数"
+            },
+            "elementId": "104"
+          },
+          "relationship": {
+            "identity": 141,
+            "start": 104,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "141",
+            "startNodeElementId": "104",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 116,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "内部函数"
+        },
+        "elementId": "116"
+      },
+      "end": {
+        "identity": 155,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "7"
+        },
+        "elementId": "155"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 116,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "内部函数"
+            },
+            "elementId": "116"
+          },
+          "relationship": {
+            "identity": 142,
+            "start": 116,
+            "end": 155,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "142",
+            "startNodeElementId": "116",
+            "endNodeElementId": "155"
+          },
+          "end": {
+            "identity": 155,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "7"
+            },
+            "elementId": "155"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 120,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "定义指针变量"
+        },
+        "elementId": "120"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 120,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "定义指针变量"
+            },
+            "elementId": "120"
+          },
+          "relationship": {
+            "identity": 143,
+            "start": 120,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "143",
+            "startNodeElementId": "120",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 127,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "free函数"
+        },
+        "elementId": "127"
+      },
+      "end": {
+        "identity": 158,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "8"
+        },
+        "elementId": "158"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 127,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "free函数"
+            },
+            "elementId": "127"
+          },
+          "relationship": {
+            "identity": 144,
+            "start": 127,
+            "end": 158,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "144",
+            "startNodeElementId": "127",
+            "endNodeElementId": "158"
+          },
+          "end": {
+            "identity": 158,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "8"
+            },
+            "elementId": "158"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 135,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "枚举类型"
+        },
+        "elementId": "135"
+      },
+      "end": {
+        "identity": 161,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "9"
+        },
+        "elementId": "161"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 135,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "枚举类型"
+            },
+            "elementId": "135"
+          },
+          "relationship": {
+            "identity": 145,
+            "start": 135,
+            "end": 161,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "145",
+            "startNodeElementId": "135",
+            "endNodeElementId": "161"
+          },
+          "end": {
+            "identity": 161,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "9"
+            },
+            "elementId": "161"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 108,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "转换为大写的函数"
+        },
+        "elementId": "108"
+      },
+      "end": {
+        "identity": 157,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "6"
+        },
+        "elementId": "157"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 108,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "转换为大写的函数"
+            },
+            "elementId": "108"
+          },
+          "relationship": {
+            "identity": 146,
+            "start": 108,
+            "end": 157,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "146",
+            "startNodeElementId": "108",
+            "endNodeElementId": "157"
+          },
+          "end": {
+            "identity": 157,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "6"
+            },
+            "elementId": "157"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 139,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "文件名"
+        },
+        "elementId": "139"
+      },
+      "end": {
+        "identity": 153,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "10"
+        },
+        "elementId": "153"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 139,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "文件名"
+            },
+            "elementId": "139"
+          },
+          "relationship": {
+            "identity": 147,
+            "start": 139,
+            "end": 153,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "147",
+            "startNodeElementId": "139",
+            "endNodeElementId": "153"
+          },
+          "end": {
+            "identity": 153,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "10"
+            },
+            "elementId": "153"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 76,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "计算机程序"
+        },
+        "elementId": "76"
+      },
+      "end": {
+        "identity": 160,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "1"
+        },
+        "elementId": "160"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 76,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "计算机程序"
+            },
+            "elementId": "76"
+          },
+          "relationship": {
+            "identity": 148,
+            "start": 76,
+            "end": 160,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "148",
+            "startNodeElementId": "76",
+            "endNodeElementId": "160"
+          },
+          "end": {
+            "identity": 160,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "1"
+            },
+            "elementId": "160"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "算法的特征"
+        },
+        "elementId": "82"
+      },
+      "end": {
+        "identity": 159,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "2"
+        },
+        "elementId": "159"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "算法的特征"
+            },
+            "elementId": "82"
+          },
+          "relationship": {
+            "identity": 149,
+            "start": 82,
+            "end": 159,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "149",
+            "startNodeElementId": "82",
+            "endNodeElementId": "159"
+          },
+          "end": {
+            "identity": 159,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "2"
+            },
+            "elementId": "159"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 150,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "赋值表达式"
+        },
+        "elementId": "150"
+      },
+      "end": {
+        "identity": 156,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "11"
+        },
+        "elementId": "156"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 150,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "赋值表达式"
+            },
+            "elementId": "150"
+          },
+          "relationship": {
+            "identity": 150,
+            "start": 150,
+            "end": 156,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "150",
+            "startNodeElementId": "150",
+            "endNodeElementId": "156"
+          },
+          "end": {
+            "identity": 156,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "11"
+            },
+            "elementId": "156"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 140,
+        "labels": [
+          "Concept"
+        ],
+        "properties": {
+          "name": "打开与关闭文件"
+        },
+        "elementId": "140"
+      },
+      "end": {
+        "identity": 153,
+        "labels": [
+          "Chapter"
+        ],
+        "properties": {
+          "name": "10"
+        },
+        "elementId": "153"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 140,
+            "labels": [
+              "Concept"
+            ],
+            "properties": {
+              "name": "打开与关闭文件"
+            },
+            "elementId": "140"
+          },
+          "relationship": {
+            "identity": 151,
+            "start": 140,
+            "end": 153,
+            "type": "part_of",
+            "properties": {
+              "name": "从属章节"
+            },
+            "elementId": "151",
+            "startNodeElementId": "140",
+            "endNodeElementId": "153"
+          },
+          "end": {
+            "identity": 153,
+            "labels": [
+              "Chapter"
+            ],
+            "properties": {
+              "name": "10"
+            },
+            "elementId": "153"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

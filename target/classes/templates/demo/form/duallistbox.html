@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <th:block th:include="include :: header('左右互选组件')" />
+    <th:block th:include="include :: bootstrap-duallistbox-css" />
+    <th:block th:include="include :: bootstrap-fileinput-css" />
+</head>
+<body class="gray-bg">
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox">
+                <div class="ibox-title">
+                    <h5>任务列表<small>2022-2023年第二学期</small></h5>
+                </div>
+                <div class="ibox-content">
+                    <p>
+                        任务截至完成时间2023-6-26，请同学务必在这之前把任务列表清空，全部完成！
+                    </p>
+
+                    <form id="form" action="#" class="wizard-big">
+                        <select class="form-control dual_select" multiple>
+                            <option selected value="1">第一章节实验预习</option>
+                            <option selected value="2">第一章节实验报告</option>
+                            <option value="3">第一章节作业</option>
+                            <option selected value="4">第一章节实验预习</option>
+                            <option value="5">第二章节实验报告</option>
+                            <option value="6">第二章节作业</option>
+                            <option value="7">第三章节实验预习</option>
+                            <option value="8">第三章节实验报告</option>
+                            <option value="9">第三章节作业</option>
+                            <option value="10">第四章节实验预习</option>
+                            <option value="11">第四章节实验报告</option>
+                            <option value="12">第四章节作业</option>
+                            <option value="13">第五章节实验预习</option>
+                            <option value="14">第五章节实验报告</option>
+                            <option value="15">第五章节作业</option>
+                            <option value="16">第六章节实验预习</option>
+                            <option value="17">第六章节实验报告</option>
+                            <option value="18">第六章节作业</option>
+                            <option value="19">第七章节实验预习</option>
+                            <option value="20">第七章节实验报告</option>
+                            <option value="21">第七章节作业</option>
+                            <option value="22">第八章节实验预习</option>
+                            <option value="23">第八章节实验报告</option>
+                            <option value="24">第八章节作业</option>
+                            <option value="25">第九章节实验预习</option>
+                            <option value="26">第九章节实验报告</option>
+                            <option value="27">第九章节作业</option>
+
+
+                        </select>
+                    </form>
+                    <hr>
+                    <!--                        <div class="form-group">-->
+                    <!--                            <label class="font-noraml">相关参数详细信息</label>-->
+                    <!--                            <div><a href="http://doc.ruoyi.vip/ruoyi/document/zjwd.html#bootstrap-duallistbox" target="_blank">http://doc.ruoyi.vip/ruoyi/document/zjwd.html#bootstrap-duallistbox</a></div>-->
+                    <!--                        </div>-->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<th:block th:include="include :: footer" />
+<th:block th:include="include :: bootstrap-duallistbox-js" />
+<script type="text/javascript">
+	    $('.dual_select').bootstrapDualListbox({
+	    	nonSelectedListLabel: '未完成任务',
+            selectedListLabel: '已完成任务',
+            preserveSelectionOnMove: 'moved',
+            moveOnSelect: false,           // 出现一个剪头，表示可以一次选择一个
+            filterTextClear: '展示所有',
+            moveSelectedLabel: "添加",
+            moveAllLabel: '添加所有',
+            removeSelectedLabel: "移除",
+            removeAllLabel: '移除所有',
+            infoText: '共{0}个',
+            showFilterInputs: true,       // 是否带搜索
+	        selectorMinimalHeight: 344
+	    });
+    </script>
+<div id="container" style="height: 38%"></div>
+
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl/dist/echarts-gl.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-stat/dist/ecStat.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/dataTool.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/china.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/world.js"></script>
+<script type="text/javascript"
+        src="https://api.map.baidu.com/api?v=2.0&ak=DezNcsGYMqUvMpB3d1DKlvejwHTtwIDo"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/bmap.min.js"></script>
+<th:block th:include="include :: footer"/>
+<script type="text/javascript">
+
+        function downloadfile(url) {
+            var xmlHttp = null;
+            if (window.ActiveXObject) {
+                // IE6, IE5 浏览器执行代码
+                xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+            } else if (window.XMLHttpRequest) {
+                // IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码
+                xmlHttp = new XMLHttpRequest();
+            }
+            //2.如果实例化成功，就调用open（）方法：
+            if (xmlHttp != null) {
+                xmlHttp.open("get", url, true);
+                xmlHttp.send();
+                xmlHttp.onreadystatechange = doResult; //设置回调函数
+            }
+
+            function doResult() {
+                if (xmlHttp.readyState == 4) { //4表示执行完成
+                    if (xmlHttp.status == 200) { //200表示执行成功
+                        //引用js库：http://danml.com/js/download2.js
+                        var x = xmlHttp.responseText;
+                        download(xmlHttp.responseText, "error.txt", "text/plain");
+                    }
+                }
+            }
+
+            return xmlHttp.responseText;
+        }
+
+        var dom = document.getElementById("container");
+        var myChart = echarts.init(dom);
+        var app = {};
+        option = null;
+        myChart.showLoading();
+        $.get('../../Ctask.gexf', function (xml) {
+            myChart.hideLoading();
+
+            var graph = echarts.dataTool.gexf.parse(xml);
+            var categories = [];
+            for (var i = 0; i < 9; i++) {
+                categories[i] = {
+                    name: '章节' + i
+                };
+            }
+            graph.nodes.forEach(function (node) {
+                node.itemStyle = null;
+                node.value = node.symbolSize;
+                node.symbolSize /= 1.5;
+                node.label = {
+                    show: node.symbolSize > 30
+                };
+                node.category = node.attributes.modularity_class;
+            });
+            option = {
+                title: {
+                    text: 'C语言程序设计',
+                    subtext: 'Default layout',
+                    top: 'bottom',
+                    left: 'right'
+                },
+                tooltip: {},
+                legend: [{
+                    // selectedMode: 'single',
+                    data: categories.map(function (a) {
+                        return a.name;
+                    })
+                }],
+                animationDuration: 1500,
+                animationEasingUpdate: 'quinticInOut',
+                series: [
+                    {
+                        name: 'C语言程序设计',
+                        type: 'graph',
+                        layout: 'none',
+                        data: graph.nodes,
+                        links: graph.links,
+                        categories: categories,
+                        roam: true,
+                        focusNodeAdjacency: true,
+                        itemStyle: {
+                            borderColor: '#fff',
+                            borderWidth: 1,
+                            shadowBlur: 10,
+                            shadowColor: 'rgba(0, 0, 0, 0.3)'
+                        },
+                        label: {
+                            position: 'right',
+                            formatter: '{b}'
+                        },
+                        lineStyle: {
+                            color: 'source',
+                            curveness: 0.3
+                        },
+                        emphasis: {
+                            lineStyle: {
+                                width: 10
+                            }
+                        }
+                    }
+                ]
+            };
+
+            myChart.setOption(option);
+        }, 'xml');
+        ;
+        if (option && typeof option === "object") {
+            myChart.setOption(option, true);
+        }
+    </script>
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="ibox float-e-margins">
+
+                <div class="ibox-content">
+                    <div class="form-group">
+                        <label class="font-noraml">单文件上传</label>
+                        <div class="file-loading">
+                            <input class="file" type="file" multiple data-min-file-count="1" data-theme="fas">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="font-noraml">多文件上传</label>
+                        <div class="file-loading">
+                            <input id="fileinput-demo-1" type="file" multiple>
+                        </div>
+                    </div>
+                    <hr>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<th:block th:include="include :: footer" />
+<th:block th:include="include :: bootstrap-fileinput-js" />
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#fileinput-demo-1").fileinput({
+            'theme': 'explorer-fas',
+            'uploadUrl': '#',
+            overwriteInitial: false,
+            initialPreviewAsData: true,
+            initialPreview: [
+                "/img/profile.jpg"
+            ]
+        });
+    });
+    </script>
+</body>
+</html>

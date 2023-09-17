@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-05-02">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="1" label="计算机程序">
+        <viz:size value="10.0"/>
+        <viz:position x="197.83925" y="139.42368"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="2" label="从属科目">
+        <viz:size value="10.0"/>
+        <viz:position x="537.04333" y="411.12344"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+      <node id="3" label="C语言">
+        <viz:size value="10.0"/>
+        <viz:position x="-82.735825" y="-579.9781"/>
+        <viz:color r="0" g="109" b="44"/>
+      </node>
+      <node id="4" label="数据文件">
+        <viz:size value="10.0"/>
+        <viz:position x="-162.67412" y="-110.143845"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="5" label="转换为大写的函数">
+        <viz:size value="10.0"/>
+        <viz:position x="-325.8217" y="-232.269"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="6" label="字符数组的输入输出">
+        <viz:size value="10.0"/>
+        <viz:position x="-545.49927" y="508.82233"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="7" label="全局变量">
+        <viz:size value="10.0"/>
+        <viz:position x="-240.32986" y="-499.68262"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="8" label="程序文件">
+        <viz:size value="10.0"/>
+        <viz:position x="254.8016" y="195.8072"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="9" label="计算机语言">
+        <viz:size value="10.0"/>
+        <viz:position x="101.41167" y="414.72852"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="10" label="数组">
+        <viz:size value="10.0"/>
+        <viz:position x="370.65344" y="-234.55228"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="11" label="逻辑运算符">
+        <viz:size value="10.0"/>
+        <viz:position x="-174.79987" y="165.79588"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="12" label="free函数">
+        <viz:size value="10.0"/>
+        <viz:position x="92.772385" y="-614.9631"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="13" label="逻辑表达式">
+        <viz:size value="10.0"/>
+        <viz:position x="-177.30177" y="-558.35516"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="14" label="高级语言">
+        <viz:size value="10.0"/>
+        <viz:position x="47.18146" y="-590.6991"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="15" label="循环结构程序设计">
+        <viz:size value="10.0"/>
+        <viz:position x="-457.90564" y="60.08195"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="16" label="共用体类型">
+        <viz:size value="10.0"/>
+        <viz:position x="-185.11104" y="-436.03436"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="17" label="静态存储方式">
+        <viz:size value="10.0"/>
+        <viz:position x="-474.80634" y="503.86264"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="18" label="动态存储方式">
+        <viz:size value="10.0"/>
+        <viz:position x="221.11862" y="572.97473"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="19" label="测字符串长度的函数">
+        <viz:size value="10.0"/>
+        <viz:position x="-425.71375" y="495.19678"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="20" label="打开与关闭文件">
+        <viz:size value="10.0"/>
+        <viz:position x="-389.072" y="429.6152"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="21" label="机器语言">
+        <viz:size value="10.0"/>
+        <viz:position x="125.58686" y="-151.7739"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="22" label="ferror函数">
+        <viz:size value="10.0"/>
+        <viz:position x="651.1053" y="-39.117455"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="23" label="汇编语言">
+        <viz:size value="10.0"/>
+        <viz:position x="-95.91216" y="-137.9665"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="24" label="外部函数">
+        <viz:size value="10.0"/>
+        <viz:position x="614.9459" y="387.5136"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="25" label="整型常量">
+        <viz:size value="10.0"/>
+        <viz:position x="-329.7873" y="403.0739"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="26" label="赋值表达式">
+        <viz:size value="10.0"/>
+        <viz:position x="536.1101" y="-68.367226"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="27" label="输出字符串的函数">
+        <viz:size value="10.0"/>
+        <viz:position x="241.70619" y="-225.25595"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="84" source="1" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="85" source="1" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="86" source="2" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="87" source="4" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="88" source="4" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="89" source="5" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="90" source="5" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="91" source="6" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="92" source="6" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="93" source="7" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="94" source="7" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="95" source="8" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="96" source="8" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="97" source="9" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="98" source="9" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="99" source="10" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="100" source="10" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="101" source="11" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="102" source="11" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="103" source="12" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="104" source="12" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="105" source="13" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="106" source="13" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="107" source="14" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="108" source="14" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="109" source="15" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="110" source="15" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="111" source="16" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="112" source="16" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="113" source="17" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="114" source="17" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="115" source="18" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="116" source="18" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="117" source="19" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="118" source="19" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="119" source="20" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="120" source="20" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="121" source="21" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="122" source="21" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="123" source="22" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="124" source="22" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="125" source="23" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="126" source="23" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="127" source="24" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="128" source="24" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="129" source="25" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="130" source="25" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="131" source="26" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="132" source="26" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="133" source="27" target="2">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+      <edge id="134" source="27" target="3">
+        <viz:color r="0" g="109" b="44"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
