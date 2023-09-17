@@ -6,7 +6,9 @@ A Knowledge Graph-based Educational Platform
 - Adopted MVC architecture with Swagger for external interfaces and JAX-WS for data requests and responses.
 - Strengthened security with secure TCP protocol, HTTPS access, verification codes, persistent login sessions, and temporary account freezing after multiple failed login attempts.
 
-The system encompasses two primary components: knowledge graph generation and visualization, and a course teaching assistance platform. 
+The system encompasses two primary components:
+- knowledge graph generation and visualization
+- a course teaching assistance platform. 
 
 For the development of the system, we integrated mature technologies, using the Spring Boot+MyBatis framework and MySQL 8.0 as the database backend. Adhering to the standard MVC (Model-View-Controller) three-tier architecture, the system boasts excellent compatibility. Additionally, to enhance the system's security and stability, we incorporated the Shiro authorization framework.
 
